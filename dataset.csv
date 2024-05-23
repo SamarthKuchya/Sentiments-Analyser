@@ -1,0 +1,2299 @@
+sentence,label
+I love this movie!,2
+This book is so boring.,0
+The weather today is okay.,1
+I had a terrible experience at the restaurant.,0
+The new album is fantastic!,2
+I'm feeling indifferent about the outcome.,1
+I can't stand this traffic.,0
+Today was a mediocre day.,1
+She was thrilled with her promotion.,2
+The customer service was appalling.,0
+The sunset was breathtaking.,2
+The meeting was uneventful.,1
+I'm ecstatic about the news!,2
+The food was tasteless.,0
+We had a pleasant conversation.,2
+The movie was just okay.,1
+I dislike waiting for too long.,0
+The party was so much fun!,2
+He seemed indifferent to my proposal.,1
+The concert was amazing!,2
+I'm not happy with the results.,0
+Today's lunch was decent.,1
+She's excited about her upcoming trip.,2
+The service at the hotel was terrible.,0
+The view from the top was breathtaking.,2
+I'm okay with whatever you decide.,1
+I absolutely adore this song!,2
+The traffic made me furious.,0
+The movie was average.,1
+His response was lukewarm.,1
+Her smile brightened my day.,2
+The presentation was dull.,0
+I'm content with how things are going.,1
+The food at the restaurant was delicious!,2
+The game was disappointing.,0
+I'm neutral about the situation.,1
+The play was outstanding!,2
+The hotel room was dirty.,0
+I'm thrilled to be here.,2
+The service at the restaurant was excellent.,2
+The class was boring.,0
+I'm feeling optimistic about the future.,2
+The movie plot was confusing.,0
+I have mixed feelings about this decision.,1
+The cake was delicious.,2
+I'm frustrated with the delay.,0
+The performance was outstanding.,2
+I'm indifferent to his opinion.,1
+The weather ruined our plans.,0
+The book was captivating.,2
+I'm satisfied with the outcome.,2
+The customer service was superb!,2
+The wait was unbearable.,0
+I'm ambivalent about the issue.,1
+The food was too salty.,0
+The vacation was relaxing.,2
+I'm not impressed with the service.,0
+The experience was unforgettable.,2
+The presentation was underwhelming.,0
+I'm feeling positive about the future.,2
+The movie was a letdown.,0
+I'm apathetic towards the matter.,1
+The food poisoning ruined our trip.,0
+The music was uplifting.,2
+I'm not convinced by his argument.,0
+The party was a disaster.,0
+The concert was electrifying!,2
+I'm indifferent to her opinion.,1
+The hotel was disappointing.,0
+I'm thrilled with the results.,2
+The movie was enjoyable.,2
+I'm feeling optimistic about the outcome.,2
+The food was awful.,0
+The lecture was informative.,1
+I'm ambivalent about attending the event.,1
+The service at the restaurant was terrible.,0
+The beach was crowded.,0
+I'm ecstatic about the news.,2
+The food was mediocre.,0
+I'm indifferent to his proposal.,1
+The weather is perfect for a picnic.,2
+I'm disappointed with the quality.,0
+The performance was lackluster.,0
+I'm indifferent towards his attitude.,1
+The play was superb!,2
+The dinner was delicious.,2
+I'm feeling indifferent about the situation.,1
+The movie was thrilling!,2
+I'm okay with the decision.,1
+The traffic was unbearable.,0
+The book was a page-turner.,2
+The meeting was productive.,2
+I'm indifferent to their complaints.,1
+The food was tasteless and bland.,0
+The movie was a masterpiece!,2
+I'm feeling hopeful about the future.,2
+The service was excellent.,2
+The class was engaging.,2
+I'm indifferent towards her opinion.,1
+The food was disgusting.,0
+The party was enjoyable.,2
+I'm unsatisfied with the service.,0
+The presentation was captivating.,2
+The concert was disappointing.,0
+I'm feeling indifferent about the outcome.,1
+The weather is awful.,0
+The food was fantastic!,2
+I'm feeling pessimistic about the outcome.,0
+The customer service was rude.,0
+The play was terrible.,0
+I'm indifferent to his comments.,1
+The hotel was excellent!,2
+The movie was phenomenal!,2
+I'm content with my decision.,2
+The food was divine!,2
+I'm neutral about the situation.,1
+The service at the restaurant was slow.,0
+The lecture was boring.,0
+I'm indifferent towards this issue.,1
+The weather is gloomy.,0
+The food was satisfactory.,1
+I'm thrilled with the news.,2
+The concert was incredible!,2
+I'm indifferent to his suggestion.,1
+The hotel room was clean.,2
+The movie was entertaining.,2
+I'm feeling optimistic about the situation.,2
+The traffic was terrible.,0
+The book was disappointing.,0
+I'm ambivalent about the decision.,1
+The presentation was excellent.,2
+The service was outstanding.,2
+I'm indifferent towards her comments.,1
+The weather is beautiful.,2
+The food was terrible.,0
+I'm ecstatic about the results!,2
+The play was phenomenal!,2
+I'm satisfied with the service.,2
+The food was amazing!,2
+I'm indifferent to her attitude.,1
+The traffic was frustrating.,0
+The movie was boring.,0
+I'm feeling indifferent about this matter.,1
+The concert was spectacular!,2
+The hotel was awful.,0
+The movie was captivating!,2
+I'm thrilled with his performance.,2
+The weather is perfect.,2
+I'm indifferent towards their complaints.,1
+The food was excellent!,2
+The party was fantastic!,2
+I'm unsatisfied with the quality.,0
+The presentation was dreadful.,0
+I'm indifferent to the situation.,1
+The book was fascinating.,2
+The traffic was unbearable.,0
+I'm ecstatic about the news.,2
+The concert was amazing!,2
+I'm indifferent to his proposal.,1
+The hotel was disappointing.,0
+I'm thrilled with the results.,2
+The movie was enjoyable.,2
+I'm feeling optimistic about the outcome.,2
+The food was awful.,0
+The lecture was informative.,1
+I'm ambivalent about attending the event.,1
+The service at the restaurant was terrible.,0
+The beach was crowded.,0
+I'm ecstatic about the news.,2
+The food was mediocre.,0
+I'm indifferent to his proposal.,1
+The weather is perfect for a picnic.,2
+I'm disappointed with the quality.,0
+The performance was lackluster.,0
+I'm indifferent towards his attitude.,1
+The play was superb!,2
+The dinner was delicious.,2
+I'm feeling indifferent about the situation.,1
+The movie was thrilling!,2
+I'm okay with the decision.,1
+The traffic was unbearable.,0
+The hike was invigorating.,2
+I'm indifferent to the latest fashion trends.,1
+The pizza was disappointing.,0
+I'm thrilled about the upcoming event!,2
+The traffic was surprisingly light.,2
+The service at the hotel was top-notch.,2
+I'm feeling uncertain about my future.,1
+The sunset was mesmerizing.,2
+The presentation was underwhelming.,0
+I'm ecstatic about my new job.,2
+The food at the restaurant was exquisite!,2
+The movie left me feeling indifferent.,1
+The customer service was horrendous.,0
+I'm satisfied with my progress.,2
+The weather forecast is dismal.,0
+The play was riveting!,2
+The traffic made me late.,0
+I'm neutral about the situation.,1
+The food was bland and tasteless.,0
+The concert was a letdown.,0
+I'm excited to see where this goes!,2
+The movie had me on the edge of my seat.,2
+I'm indifferent to his opinion on the matter.,1
+The hotel room was spacious and comfortable.,2
+The food was undercooked.,0
+The experience was unforgettable.,2
+I'm feeling indifferent towards her attitude.,1
+The presentation was captivating.,2
+I'm apathetic towards the outcome.,1
+The weather is perfect for a picnic.,2
+The service at the restaurant was abysmal.,0
+The book was a real page-turner.,2
+I'm disappointed with the service.,0
+The traffic was unbearable.,0
+The movie was engaging.,2
+I'm satisfied with the outcome.,2
+The food was absolutely delicious!,2
+The lecture was uninspiring.,0
+I'm indifferent towards his remarks.,1
+The hotel was a disappointment.,0
+The concert was electrifying!,2
+I'm feeling optimistic about the future.,2
+The food was terrible.,0
+The play was boring.,0
+I'm ambivalent about the decision.,1
+The presentation was excellent.,2
+The service was exceptional.,2
+I'm indifferent towards her comments.,1
+The weather is beautiful.,2
+The food was outstanding.,2
+I'm ecstatic about the results!,2
+The play was phenomenal!,2
+I'm satisfied with the service.,2
+The food was amazing!,2
+I'm indifferent to her attitude.,1
+The traffic was frustrating.,0
+The movie was boring.,0
+I'm feeling indifferent about this matter.,1
+The concert was spectacular!,2
+The hotel was awful.,0
+The movie was captivating!,2
+I'm thrilled with his performance.,2
+The weather is perfect.,2
+I'm indifferent towards their complaints.,1
+The food was excellent!,2
+The party was fantastic!,2
+I'm unsatisfied with the quality.,0
+The presentation was dreadful.,0
+I'm indifferent to the situation.,1
+The book was fascinating.,2
+The traffic was unbearable.,0
+I'm ecstatic about the news.,2
+The concert was amazing!,2
+I'm indifferent to his proposal.,1
+The hotel was disappointing.,0
+I'm thrilled with the results.,2
+The movie was enjoyable.,2
+I'm feeling optimistic about the outcome.,2
+The food was awful.,0
+The lecture was informative.,1
+I'm ambivalent about attending the event.,1
+The service at the restaurant was terrible.,0
+The beach was crowded.,0
+I'm ecstatic about the news.,2
+The food was mediocre.,0
+I'm indifferent to his proposal.,1
+The weather is perfect for a picnic.,2
+I'm disappointed with the quality.,0
+The performance was lackluster.,0
+I'm indifferent towards his attitude.,1
+The play was superb!,2
+The dinner was delicious.,2
+I'm feeling indifferent about the situation.,1
+The movie was thrilling!,2
+I'm okay with the decision.,1
+The traffic was unbearable.,0
+The book was disappointing.,0
+I'm ambivalent about the decision.,1
+The presentation was excellent.,2
+The service was outstanding.,2
+I'm indifferent towards her comments.,1
+The weather is beautiful.,2
+The food was terrible.,0
+I'm ecstatic about the results!,2
+The play was phenomenal!,2
+I'm satisfied with the service.,2
+The food was amazing!,2
+I'm indifferent to her attitude.,1
+The traffic was frustrating.,0
+The movie was boring.,0
+I'm feeling indifferent about this matter.,1
+The concert was spectacular!,2
+The hotel was awful.,0
+The movie was captivating!,2
+I'm thrilled with his performance.,2
+The weather is perfect.,2
+I'm indifferent towards their complaints.,1
+The food was excellent!,2
+The party was fantastic!,2
+I'm unsatisfied with the quality.,0
+The presentation was dreadful.,0
+I'm indifferent to the situation.,1
+The book was fascinating.,2
+The traffic was unbearable.,0
+I'm ecstatic about the news.,2
+The concert was amazing!,2
+I'm indifferent to his proposal.,1
+The hotel was disappointing.,0
+I'm thrilled with the results.,2
+The movie was enjoyable.,2
+I'm feeling optimistic about the outcome.,2
+The food was awful.,0
+The lecture was informative.,1
+I'm ambivalent about attending the event.,1
+The service at the restaurant was terrible.,0
+The beach was crowded.,0
+I'm ecstatic about the news.,2
+The food was mediocre.,0
+I'm indifferent to his proposal.,1
+The weather is perfect for a picnic.,2
+I'm disappointed with the quality.,0
+The performance was lackluster.,0
+I'm indifferent towards his attitude.,1
+The play was superb!,2
+The dinner was delicious.,2
+I'm feeling indifferent about the situation.,1
+The movie was thrilling!,2
+I'm okay with the decision.,1
+The traffic was unbearable.,0
+The book was disappointing.,0
+I'm ambivalent about the decision.,1
+The presentation was excellent.,2
+The service was outstanding.,2
+I'm indifferent towards her comments.,1
+The weather is beautiful.,2
+The food was terrible.,0
+I'm ecstatic about the results!,2
+The play was phenomenal!,2
+I'm satisfied with the service.,2
+The food was amazing!,2
+I'm indifferent to her attitude.,1
+The traffic was frustrating.,0
+The movie was boring.,0
+I'm feeling indifferent about this matter.,1
+The concert was spectacular!,2
+The hotel was awful.,0
+The movie was captivating!,2
+I'm thrilled with his performance.,2
+The weather is perfect.,2
+I'm indifferent towards their complaints.,1
+The food was excellent!,2
+The party was fantastic!,2
+I'm unsatisfied with the quality.,0
+The presentation was dreadful.,0
+I'm indifferent to the situation.,1
+The book was fascinating.,2
+The traffic was unbearable.,0
+I'm ecstatic about the news.,2
+The concert was amazing!,2
+I'm indifferent to his proposal.,1
+The hotel was disappointing.,0
+I'm thrilled with the results.,2
+The movie was enjoyable.,2
+I'm overjoyed with the results!,2
+The traffic was horrendous.,0
+I'm feeling indifferent towards his attitude.,1
+The play was enthralling!,2
+The food was subpar.,0
+I'm excited for the weekend.,2
+The service at the cafe was exceptional.,2
+I'm feeling uncertain about the outcome.,1
+The sunset was absolutely stunning!,2
+The presentation was lackluster.,0
+I'm thrilled about the opportunity.,2
+The food at the party was mediocre.,0
+The movie was captivating!,2
+I'm feeling indifferent towards the situation.,1
+The weather is gloomy and depressing.,0
+The concert was breathtaking!,2
+I'm disappointed with the experience.,0
+The traffic was surprisingly light.,2
+I'm indifferent to her comments.,1
+The service at the hotel was appalling.,0
+The book was captivating and insightful.,2
+I'm satisfied with my progress.,2
+The food was below average.,0
+The movie was a rollercoaster of emotions.,2
+I'm feeling ambivalent about the decision.,1
+The weather is perfect for a stroll.,2
+The service at the restaurant was excellent.,2
+I'm ecstatic about the news!,2
+The play was mind-blowing!,2
+I'm indifferent to his suggestion.,1
+The food was divine!,2
+The traffic was unbearable.,0
+I'm indifferent to the latest developments.,1
+The movie was a complete waste of time.,0
+I'm excited to see what the future holds!,2
+The concert was phenomenal!,2
+I'm feeling indifferent towards her reaction.,1
+The hotel was a pleasant surprise.,2
+The food was atrocious.,0
+The lecture was engaging and informative.,2
+I'm satisfied with the service provided.,2
+The play was dreadful.,0
+The weather is pleasant and sunny.,2
+The traffic was infuriating.,0
+I'm indifferent to his remarks.,1
+The movie was a masterpiece of storytelling.,2
+The food was exquisite!,2
+I'm ecstatic about the results.,2
+The concert was awe-inspiring!,2
+I'm indifferent to his complaints.,1
+The book was disappointing and lackluster.,0
+I'm thrilled with her performance.,2
+The weather is unpredictable.,0
+The food was absolutely delicious!,2
+I'm feeling indifferent about attending the event.,1
+The party was a blast!,2
+The presentation was mediocre.,0
+I'm ambivalent about his proposal.,1
+The traffic was backed up for miles.,0
+I'm ecstatic about the opportunity.,2
+The play was spectacular!,2
+I'm indifferent to her opinion.,1
+The service at the restaurant was subpar.,0
+The food was delectable!,2
+I'm satisfied with the outcome.,2
+The weather is chilly and damp.,0
+The traffic was manageable.,1
+I'm indifferent to the whole situation.,1
+The movie was dull and uninspiring.,0
+I'm excited to start my new job.,2
+The concert was a letdown.,0
+I'm feeling indifferent towards his response.,1
+The hotel was a nightmare.,0
+The food was bland and tasteless.,0
+I'm thrilled with the decision.,2
+The presentation was captivating and engaging.,2
+I'm feeling indifferent towards her attitude.,1
+The weather is warm and inviting.,2
+The food was surprisingly good!,2
+I'm ecstatic about the news!,2
+The play was riveting!,2
+I'm indifferent to his argument.,1
+The hotel was disappointing.,0
+I'm thrilled with the results.,2
+The movie was enjoyable.,2
+I'm feeling optimistic about the outcome.,2
+The food was awful.,0
+The lecture was informative.,1
+I'm ambivalent about attending the event.,1
+The service at the restaurant was terrible.,0
+The beach was crowded.,0
+I'm ecstatic about the news!,2
+The food was mediocre.,0
+I'm indifferent to his proposal.,1
+The weather is perfect for a picnic.,2
+I'm disappointed with the quality.,0
+The performance was lackluster.,0
+I'm indifferent towards his attitude.,1
+The play was superb!,2
+The dinner was delicious.,2
+I'm feeling indifferent about the situation.,1
+The movie was thrilling!,2
+I'm okay with the decision.,1
+The traffic was unbearable.,0
+The book was disappointing.,0
+I'm ambivalent about the decision.,1
+The presentation was excellent.,2
+The service was outstanding.,2
+I'm indifferent towards her comments.,1
+The weather is beautiful.,2
+The food was terrible.,0
+I'm ecstatic about the results!,2
+The play was phenomenal!,2
+I'm satisfied with the service.,2
+The food was amazing!,2
+I'm indifferent to her attitude.,1
+The traffic was frustrating.,0
+The movie was boring.,0
+I'm feeling indifferent about this matter.,1
+The concert was spectacular!,2
+The hotel was awful.,0
+The movie was captivating!,2
+I'm thrilled with his performance.,2
+The weather is perfect.,2
+I'm indifferent towards their complaints.,1
+The food was excellent!,2
+The party was fantastic!,2
+I'm unsatisfied with the quality.,0
+The presentation was dreadful.,0
+I'm indifferent to the situation.,1
+The book was fascinating.,2
+The traffic was unbearable.,0
+I'm ecstatic about the news.,2
+The concert was amazing!,2
+I'm indifferent to his proposal.,1
+The hotel was disappointing.,0
+I'm thrilled with the results.,2
+The movie was enjoyable.,2
+I'm feeling optimistic about the outcome.,2
+The food was awful.,0
+The lecture was informative.,1
+I'm ambivalent about attending the event.,1
+The service at the restaurant was terrible.,0
+The beach was crowded.,0
+I'm ecstatic about the news.,2
+The food was mediocre.,0
+I'm indifferent to his proposal.,1
+The weather is perfect for a picnic.,2
+I'm disappointed with the quality.,0
+The performance was lackluster.,0
+I'm indifferent towards his attitude.,1
+The play was superb!,2
+The dinner was delicious.,2
+I'm feeling indifferent about the situation.,1
+The movie was thrilling!,2
+I'm okay with the decision.,1
+The traffic was unbearable.,0
+The book was disappointing.,0
+I'm ambivalent about the decision.,1
+The presentation was excellent.,2
+The service was outstanding.,2
+I'm indifferent towards her comments.,1
+The weather is beautiful.,2
+The food was terrible.,0
+I'm ecstatic about the results!,2
+The play was phenomenal!,2
+I'm satisfied with the service.,2
+The food was amazing!,2
+I'm indifferent to her attitude.,1
+The traffic was frustrating.,0
+The movie was boring.,0
+I'm feeling indifferent about this matter.,1
+The concert was spectacular!,2
+The hotel was awful.,0
+The movie was captivating!,2
+I'm thrilled with his performance.,2
+The weather is perfect.,2
+"""I'm indifferent",1
+The hike was invigorating and refreshing.,2
+I'm neutral about the latest developments.,1
+The pizza was surprisingly delicious.,2
+I'm thrilled about the upcoming vacation!,2
+The traffic was unexpectedly light.,2
+The service at the cafe was top-notch.,2
+I'm feeling uncertain about my decision.,1
+The sunset was absolutely breathtaking!,2
+The presentation was underwhelming and dull.,0
+I'm excited for the weekend getaway.,2
+The food at the party was disappointing.,0
+The movie was enthralling and captivating!,2
+I'm indifferent towards the current situation.,1
+"The weather is gloomy, but it's cozy indoors.",0
+The concert was electrifying and unforgettable!,2
+I'm disappointed with the overall experience.,0
+The traffic was surprisingly manageable.,1
+I'm indifferent to his remarks on the matter.,1
+The service at the hotel was appalling and unacceptable.,0
+The book was captivating and thought-provoking.,2
+I'm satisfied with my recent accomplishments.,2
+The food was below average and unsatisfying.,0
+The movie was a rollercoaster of emotions!,2
+I'm feeling ambivalent about the upcoming changes.,1
+The weather is perfect for a leisurely stroll.,2
+The service at the restaurant was exceptional and commendable.,2
+I'm ecstatic about the news of her engagement!,2
+The play was mind-blowing and extraordinary!,2
+I'm indifferent to his suggestions.,1
+The food was divine and exquisite!,2
+The traffic was unbearable and frustrating.,0
+I'm indifferent to the latest gossip.,1
+The movie was a complete waste of time and money.,0
+I'm excited to embark on this new journey!,2
+The concert was phenomenal and breathtaking!,2
+I'm feeling indifferent towards her reaction.,1
+The hotel was a pleasant surprise and exceeded expectations.,2
+The food was atrocious and barely edible.,0
+The lecture was engaging and informative.,2
+I'm satisfied with the service provided.,2
+The play was dreadful and disappointing.,0
+The weather is pleasant and conducive to outdoor activities.,2
+The traffic was infuriating and maddening.,0
+I'm indifferent to his complaints about the issue.,1
+The movie was a masterpiece of storytelling and cinematography!,2
+The food was exquisite and mouthwatering!,2
+I'm ecstatic about the results of the experiment!,2
+The concert was awe-inspiring and magical!,2
+I'm indifferent to his constant criticism.,1
+The book was disappointing and failed to meet expectations.,0
+I'm thrilled with her performance in the play!,2
+"The weather is unpredictable, but it adds excitement.",0
+The food was absolutely delicious and heavenly!,2
+I'm feeling indifferent about attending the upcoming event.,1
+The party was a blast and filled with laughter!,2
+The presentation was mediocre and uninspiring.,0
+I'm ambivalent about his proposal for the project.,1
+The traffic was backed up for hours.,0
+I'm ecstatic about the opportunity to travel!,2
+The play was spectacular and left me in awe!,2
+I'm indifferent to her opinion on the matter.,1
+The service at the restaurant was subpar and disappointing.,0
+The food was delectable and tantalizing!,2
+I'm satisfied with the outcome of the negotiations.,2
+"The weather is chilly and damp, but it's cozy indoors.",0
+"The traffic was manageable, but it was still slow.",1
+I'm indifferent to the whole situation and prefer not to get involved.,1
+"The movie was dull and uninspiring, lacking creativity.",0
+I'm excited to start my new job and meet new colleagues!,2
+The concert was a letdown and failed to impress.,0
+I'm feeling indifferent towards his response to the criticism.,1
+The hotel was a nightmare and ruined our vacation.,0
+"The food was bland and tasteless, lacking flavor.",0
+I'm thrilled with the decision and can't wait to get started!,2
+The presentation was captivating and held my attention throughout.,2
+I'm feeling indifferent towards her attitude in the meeting.,1
+"The weather is warm and inviting, perfect for outdoor activities.",2
+The food was terrible and left a bad taste in my mouth.,0
+I'm ecstatic about the news of her promotion!,2
+The play was phenomenal and received a standing ovation!,2
+I'm satisfied with the service provided by the staff.,2
+The food was amazing and exceeded my expectations!,2
+I'm indifferent to her attitude towards the situation.,1
+The traffic was frustrating and caused delays.,0
+"The movie was boring and predictable, lacking excitement.",0
+I'm feeling indifferent about this matter and don't have a strong opinion.,1
+The concert was spectacular and left me speechless!,2
+The hotel was awful and in dire need of renovation.,0
+The movie was captivating and held my attention from start to finish!,2
+I'm thrilled with his performance in the play and couldn't be prouder!,2
+The weather is perfect and couldn't be better.,2
+I'm indifferent towards their complaints about the project.,1
+The food was excellent and surpassed my expectations!,2
+The party was fantastic and a night to remember!,2
+I'm unsatisfied with the quality of service provided.,0
+The presentation was dreadful and put me to sleep.,0
+I'm indifferent to the situation and don't feel strongly about it either way.,1
+The book was fascinating and kept me hooked until the end!,2
+The traffic was unbearable and caused major delays.,0
+I'm ecstatic about the news of their engagement!,2
+"The concert was amazing and unforgettable, a night to remember!",2
+I'm indifferent to his proposal for the project.,1
+The hotel was disappointing and failed to meet our expectations.,0
+I'm thrilled with the results of the experiment and can't wait to share them!,2
+The movie was enjoyable and provided a much-needed escape from reality.,2
+I'm feeling optimistic about the outcome of the negotiations.,2
+The food was awful and left much to be desired.,0
+The lecture was informative and provided valuable insights.,2
+I'm ambivalent about attending the upcoming event and haven't decided yet.,1
+The service at the restaurant was terrible and left a lot to be desired.,0
+The beach was crowded and packed with tourists.,0
+I'm ecstatic about the news of their wedding!,2
+The food was mediocre and lacked flavor.,0
+I'm indifferent to his proposal for the project and don't have a strong opinion.,1
+The weather is perfect for a picnic and spending time outdoors.,2
+I'm disappointed with the quality of the product and expected better.,0
+The performance was lackluster and failed to impress the audience.,0
+I'm indifferent towards his attitude and don't let it affect me.,1
+The play was superb and received rave reviews from critics.,2
+The dinner was delicious and cooked to perfection!,2
+I'm feeling indifferent about the situation and prefer not to get involved.,1
+The movie was thrilling and kept me on the edge of my seat!,2
+I'm okay with the decision and trust that it was made for the best.,1
+"""The traffic was unbearable and caused",0
+I'm overjoyed with the progress we've made!,2
+The traffic was unbearable and tested my patience.,0
+I'm indifferent to his remarks regarding the issue.,1
+The play was enthralling and left me spellbound!,2
+The food was subpar and left much to be desired.,0
+I'm excited for the upcoming holiday season.,2
+The service at the café was exceptional and exceeded my expectations.,2
+I'm feeling uncertain about my decision to move.,1
+The sunset was absolutely mesmerizing and painted the sky with vibrant colors!,2
+The presentation was underwhelming and failed to impress the audience.,0
+I'm thrilled about the opportunity to travel abroad!,2
+The food at the party was mediocre and lacked flavor.,0
+The movie was enthralling and kept me on the edge of my seat throughout!,2
+I'm indifferent towards the current state of affairs.,1
+"The weather is gloomy, but it's perfect for staying indoors and cozying up with a book.",0
+The concert was electrifying and had everyone on their feet dancing!,2
+I'm disappointed with the overall experience and expected better.,0
+"The traffic was surprisingly light, making my commute much easier.",2
+I'm indifferent to her comments about the situation.,1
+The service at the hotel was appalling and tarnished our vacation experience.,0
+The book was captivating and held my attention from start to finish.,2
+I'm satisfied with my recent achievements and progress.,2
+The food was below average and didn't meet my expectations.,0
+The movie was a rollercoaster of emotions and left me in tears!,2
+I'm feeling ambivalent about the upcoming changes in our organization.,1
+The weather is perfect for a leisurely stroll in the park.,2
+The service at the restaurant was exceptional and made our dining experience memorable.,2
+"I'm ecstatic about the news of her engagement, and I can't wait to celebrate!",2
+The play was mind-blowing and left the audience in awe!,2
+I'm indifferent to his suggestions regarding the project.,1
+The food was divine and left me craving for more!,2
+The traffic was unbearable and caused significant delays in my schedule.,0
+I'm indifferent to the latest updates on social media.,1
+"The movie was a complete waste of time and money, and I regret watching it.",0
+I'm excited to embark on this new journey and explore new opportunities!,2
+The concert was phenomenal and left a lasting impression on everyone!,2
+I'm feeling indifferent towards her reaction to the news.,1
+"The hotel was a pleasant surprise, and it exceeded our expectations.",2
+The food was atrocious and left a bad taste in my mouth.,0
+The lecture was engaging and provided valuable insights into the topic.,2
+I'm satisfied with the service provided by the company.,2
+The play was dreadful and failed to capture my interest.,0
+The weather is pleasant and ideal for outdoor activities.,2
+The traffic was infuriating and caused me to arrive late.,0
+I'm indifferent to his complaints about the situation.,1
+The movie was a masterpiece of storytelling and left a lasting impact on me!,2
+The food was exquisite and left me wanting more!,2
+"I'm ecstatic about the results of the experiment, and I can't wait to share them with everyone!",2
+The concert was awe-inspiring and left me speechless!,2
+I'm indifferent to his constant criticism and choose not to let it affect me.,1
+The book was disappointing and failed to live up to the hype.,0
+"I'm thrilled with her performance in the play, and I couldn't be prouder!",2
+"The weather is unpredictable, but it adds an element of excitement to the day.",0
+The food was absolutely delicious and left me craving for seconds!,2
+"I'm feeling indifferent about attending the upcoming event, and I haven't made a decision yet.",1
+The party was a blast and filled with laughter and joy!,2
+The presentation was mediocre and failed to engage the audience.,0
+"I'm ambivalent about his proposal for the project, and I'm unsure how to proceed.",1
+"The traffic was backed up for hours, and it was a nightmare to navigate.",0
+I'm ecstatic about the opportunity to travel and explore new cultures!,2
+The play was spectacular and received rave reviews from critics and audiences alike!,2
+"I'm indifferent to her opinion on the matter, and I choose to respect her viewpoint.",1
+The service at the restaurant was subpar and left a lot to be desired.,0
+The food was delectable and left me wanting more with each bite!,2
+I'm satisfied with the outcome of the meeting and feel confident moving forward.,2
+"The weather is chilly and damp, but it's perfect for cozying up by the fireplace.",0
+"The traffic was manageable, but it still added to my stress levels.",1
+"I'm indifferent to the whole situation, and I prefer not to get involved in the drama.",1
+"The movie was dull and uninspiring, and it failed to capture my attention.",0
+I'm excited to start my new job and embark on this exciting journey!,2
+The concert was a letdown and failed to meet my expectations.,0
+"I'm feeling indifferent towards his response to the criticism, and I choose not to dwell on it.",1
+The hotel was a nightmare and ruined our vacation experience.,0
+"The food was bland and tasteless, and it left much to be desired in terms of flavor.",0
+The hike was exhilarating and filled me with joy.,2
+I'm indifferent to the current political climate.,1
+The pizza was surprisingly tasty and exceeded my expectations.,2
+I'm thrilled about the opportunity to travel abroad!,2
+"The traffic was surprisingly light, making my commute enjoyable.",2
+The service at the café was exceptional and made my day.,2
+I'm feeling uncertain about my future career path.,1
+"The sunset was breathtakingly beautiful, painting the sky with vibrant hues.",2
+The presentation was underwhelming and failed to engage the audience.,0
+I'm excited for the weekend getaway with friends.,2
+The food at the party was disappointing and lacked flavor.,0
+The movie was enthralling and kept me on the edge of my seat.,2
+I'm indifferent towards the recent changes in company policy.,1
+"The weather is gloomy, but it's perfect for staying indoors and relaxing.",0
+The concert was electrifying and left me wanting more.,2
+I'm disappointed with the overall experience at the restaurant.,0
+"The traffic was surprisingly light, making my commute stress-free.",2
+I'm indifferent to her comments about the situation.,1
+The service at the hotel was appalling and ruined our vacation.,0
+The book was captivating and kept me hooked until the end.,2
+I'm satisfied with my recent accomplishments and progress.,2
+The food was below average and left much to be desired.,0
+The movie was a rollercoaster of emotions and left me in tears.,2
+I'm feeling ambivalent about the upcoming changes in my life.,1
+The weather is perfect for a leisurely walk in the park.,2
+The service at the restaurant was exceptional and made our dinner memorable.,2
+I'm ecstatic about the news of her engagement and can't wait to celebrate!,2
+The play was mind-blowing and left the audience in awe.,2
+I'm indifferent to his suggestions regarding the project.,1
+The food was divine and left me craving for more.,2
+The traffic was unbearable and caused significant delays.,0
+I'm indifferent to the latest trends in fashion.,1
+The movie was a complete waste of time and money.,0
+I'm excited to embark on this new adventure!,2
+The concert was phenomenal and left a lasting impression.,2
+I'm feeling indifferent towards her reaction to the news.,1
+The hotel was a pleasant surprise and exceeded our expectations.,2
+The food was atrocious and left a bad taste in my mouth.,0
+The lecture was engaging and provided valuable insights.,2
+I'm satisfied with the service provided by the company.,2
+The play was dreadful and failed to capture my interest.,0
+The weather is pleasant and perfect for outdoor activities.,2
+The traffic was infuriating and caused me to miss my appointment.,0
+I'm indifferent to his complaints about the situation.,1
+The movie was a masterpiece of storytelling and left me speechless.,2
+The food was exquisite and left me wanting more.,2
+I'm ecstatic about the results of the experiment and can't wait to share them!,2
+The concert was awe-inspiring and left me in awe.,2
+I'm indifferent to his constant criticism and choose to ignore it.,1
+The book was disappointing and failed to live up to expectations.,0
+I'm thrilled with her performance in the play and couldn't be prouder!,2
+"The weather is unpredictable, but it adds excitement to the day.",0
+The food was absolutely delicious and left me satisfied.,2
+I'm feeling indifferent about attending the upcoming event.,1
+The party was a blast and filled with laughter.,2
+The presentation was mediocre and failed to impress.,0
+I'm ambivalent about his proposal for the project.,1
+"The traffic was backed up for hours, causing frustration.",0
+I'm ecstatic about the opportunity to travel and explore new cultures!,2
+The play was spectacular and received rave reviews.,2
+I'm indifferent to her opinion on the matter.,1
+The service at the restaurant was subpar and disappointing.,0
+The food was delectable and left me wanting more.,2
+I'm satisfied with the outcome of the meeting.,2
+"The weather is chilly and damp, but it's perfect for a cozy night in.",0
+"The traffic was manageable, but it still added to my stress.",1
+I'm indifferent to the whole situation and prefer not to get involved.,1
+"The movie was dull and uninspiring, failing to capture my attention.",0
+I'm excited to start my new job and meet my colleagues.,2
+The concert was a letdown and failed to meet my expectations.,0
+I'm feeling indifferent towards his response to the criticism.,1
+The hotel was a nightmare and ruined our vacation.,0
+"The food was bland and tasteless, lacking any flavor.",0
+I'm thrilled with the decision and eager to get started.,2
+The presentation was captivating and held my attention.,2
+I'm feeling indifferent towards her attitude in the meeting.,1
+"The weather is warm and inviting, perfect for outdoor activities.",2
+The food was terrible and left much to be desired.,0
+I'm ecstatic about the news of her promotion.,2
+The play was phenomenal and received standing ovations.,2
+I'm satisfied with the service provided by the staff.,2
+The food was amazing and surpassed my expectations.,2
+I'm indifferent to her attitude towards the situation.,1
+The traffic was frustrating and caused delays.,0
+"The movie was boring and predictable, lacking excitement.",0
+I'm feeling indifferent about this matter and don't have a strong opinion.,1
+The concert was spectacular and left me in awe.,2
+The hotel was awful and in dire need of renovation.,0
+The movie was captivating and held my attention.,2
+I'm thrilled with his performance and proud of his accomplishments.,2
+The weather is perfect and couldn't be better.,2
+I'm indifferent towards their complaints about the project.,1
+The food was excellent and exceeded my expectations.,2
+The party was fantastic and unforgettable.,2
+I'm unsatisfied with the quality of service provided.,0
+The presentation was dreadful and put me to sleep.,0
+I'm indifferent to the situation and don't feel strongly about it either way.,1
+The book was fascinating and kept me engaged.,2
+The traffic was unbearable and caused frustration.,0
+I'm ecstatic about the news and can't wait to share it.,2
+The concert was amazing and left me speechless.,2
+I'm indifferent to his proposal for the project.,1
+The hotel was disappointing and failed to meet our expectations.,0
+I'm thrilled with the results and excited about the future.,2
+The movie was enjoyable and provided a much-needed escape.,2
+I'm thrilled about the opportunity to learn new skills!,2
+The traffic was unbearable and caused significant delays.,0
+I'm indifferent to his remarks regarding the issue.,1
+The play was enthralling and left me mesmerized!,2
+The food was subpar and didn't meet my expectations.,0
+I'm excited for the upcoming holiday season.,2
+The service at the café was exceptional and made my day.,2
+I'm feeling uncertain about my future career path.,1
+"The sunset was absolutely breathtaking, like a painting in the sky!",2
+The presentation was underwhelming and failed to engage the audience.,0
+I'm thrilled about the prospect of exploring new places!,2
+The food at the party was disappointing and lacked flavor.,0
+The movie was enthralling and kept me on the edge of my seat!,2
+I'm indifferent towards the current state of affairs.,1
+"The weather is gloomy, but it's perfect for a cozy day indoors.",0
+The concert was electrifying and left me feeling alive!,2
+I'm disappointed with the overall experience at the restaurant.,0
+"The traffic was surprisingly light, making my commute a breeze.",2
+I'm indifferent to her comments about the situation.,1
+The service at the hotel was appalling and ruined our vacation.,0
+The book was captivating and held my attention from start to finish.,2
+I'm satisfied with my recent accomplishments and progress.,2
+The food was below average and didn't satisfy my cravings.,0
+The movie was a rollercoaster of emotions and left me in awe!,2
+I'm feeling ambivalent about the upcoming changes in my life.,1
+The weather is perfect for a leisurely stroll in the park.,2
+The service at the restaurant was exceptional and made our dinner memorable.,2
+I'm ecstatic about the news of her engagement and can't wait to celebrate!,2
+The play was mind-blowing and left the audience in awe!,2
+I'm indifferent to his suggestions regarding the project.,1
+The food was divine and left me craving for more!,2
+The traffic was unbearable and caused significant delays.,0
+I'm indifferent to the latest trends in fashion.,1
+The movie was a complete waste of time and money.,0
+I'm excited to embark on this new adventure!,2
+The concert was phenomenal and left a lasting impression on me!,2
+I'm feeling indifferent towards her reaction to the news.,1
+The hotel was a pleasant surprise and exceeded our expectations.,2
+The food was atrocious and left a bad taste in my mouth.,0
+The lecture was engaging and provided valuable insights.,2
+I'm satisfied with the service provided by the company.,2
+The play was dreadful and failed to capture my interest.,0
+The weather is pleasant and perfect for outdoor activities.,2
+The traffic was infuriating and caused me to miss my flight.,0
+I'm indifferent to his complaints about the situation.,1
+The movie was a masterpiece of storytelling and left me speechless!,2
+The food was exquisite and left me wanting more!,2
+I'm ecstatic about the results of the experiment and can't wait to share them!,2
+The concert was awe-inspiring and left me in awe!,2
+I'm indifferent to his constant criticism and choose to ignore it.,1
+The book was disappointing and failed to live up to expectations.,0
+I'm thrilled with her performance in the play and couldn't be prouder!,2
+"The weather is unpredictable, but it adds excitement to the day.",0
+The food was absolutely delicious and left me satisfied.,2
+I'm feeling indifferent about attending the upcoming event.,1
+The party was a blast and filled with laughter!,2
+The presentation was mediocre and failed to impress.,0
+I'm ambivalent about his proposal for the project.,1
+"The traffic was backed up for hours, causing frustration.",0
+I'm ecstatic about the opportunity to travel and explore new cultures!,2
+The play was spectacular and received rave reviews from critics and audiences alike!,2
+"I'm indifferent to her opinion on the matter, and I choose to respect her viewpoint.",1
+The service at the restaurant was subpar and disappointing.,0
+The food was delectable and left me wanting more!,2
+"I'm satisfied with the outcome of the meeting, and I feel confident moving forward.",2
+"The weather is chilly and damp, but it's perfect for a cozy night in.",0
+"The traffic was manageable, but it still added to my stress levels.",1
+"I'm indifferent to the whole situation, and I prefer not to get involved in the drama.",1
+"The movie was dull and uninspiring, failing to capture my attention.",0
+I'm excited to start my new job and meet my colleagues.,2
+The concert was a letdown and failed to meet my expectations.,0
+I'm feeling indifferent towards his response to the criticism.,1
+The hotel was a nightmare and ruined our vacation experience.,0
+"The food was bland and tasteless, lacking any flavor.",0
+"I'm thrilled with the decision, and I'm eager to get started!",2
+The presentation was captivating and held my attention.,2
+I'm feeling indifferent towards her attitude in the meeting.,1
+"The weather is warm and inviting, perfect for outdoor activities.",2
+The food was terrible and left much to be desired.,0
+I'm ecstatic about the news of her promotion!,2
+The play was phenomenal and received standing ovations from the audience!,2
+I'm satisfied with the service provided by the staff.,2
+The food was amazing and surpassed my expectations!,2
+I'm indifferent to her attitude towards the situation.,1
+The traffic was frustrating and caused delays in my schedule.,0
+"The movie was boring and predictable, lacking excitement.",0
+"I'm feeling indifferent about this matter, and I don't have a strong opinion.",1
+The concert was spectacular and left me in awe!,2
+The hotel was awful and in dire need of renovation.,0
+The movie was captivating and held my attention from start to finish!,2
+"I'm thrilled with his performance, and I'm proud of his accomplishments.",2
+"The weather is perfect, and it couldn't be better.",2
+I'm indifferent towards their complaints about the project.,1
+The food was excellent and exceeded my expectations!,2
+The party was fantastic and unforgettable!,2
+I'm unsatisfied with the quality of service provided.,0
+The presentation was dreadful and put me to sleep.,0
+"I'm indifferent to the situation, and I don't feel strongly about it either way.",1
+The book was fascinating and kept me engaged throughout.,2
+The traffic was unbearable and caused frustration.,0
+"I'm ecstatic about the news, and I can't wait to share it!",2
+The concert was amazing and left me speechless!,2
+I'm indifferent to his proposal for the project.,1
+The hotel was disappointing and failed to meet our expectations.,0
+"I'm thrilled with the results, and I'm excited about the future.",2
+The movie was enjoyable and provided a much-needed escape from reality.,2
+I'm thrilled about the upcoming vacation!,2
+The traffic was unbearable and caused delays.,0
+I'm indifferent to his remarks regarding the issue.,1
+The play was enthralling and left me captivated!,2
+The food was subpar and didn't meet my expectations.,0
+I'm excited for the holiday season.,2
+The service at the café was exceptional and made my day.,2
+I'm feeling uncertain about my future.,1
+"The sunset was absolutely breathtaking, painting the sky in hues of orange and pink.",2
+The presentation was underwhelming and failed to capture my attention.,0
+I'm thrilled about the prospect of exploring new places!,2
+The food at the party was disappointing and lacked flavor.,0
+The movie was enthralling and kept me on the edge of my seat.,2
+I'm indifferent towards the current state of affairs.,1
+"The weather is gloomy, but it's perfect for staying indoors and cozying up with a book.",0
+The concert was electrifying and left me feeling euphoric!,2
+I'm disappointed with the overall experience at the restaurant.,0
+"The traffic was surprisingly light, making my commute much easier.",2
+I'm indifferent to her comments about the situation.,1
+The service at the hotel was appalling and ruined our vacation.,0
+The book was captivating and held my attention from start to finish.,2
+I'm satisfied with my recent accomplishments and progress.,2
+The food was below average and didn't satisfy my cravings.,0
+The movie was a rollercoaster of emotions and left me in awe!,2
+I'm feeling ambivalent about the upcoming changes in my life.,1
+The weather is perfect for a leisurely stroll in the park.,2
+The service at the restaurant was exceptional and made our dinner memorable.,2
+I'm ecstatic about the news of her engagement and can't wait to celebrate!,2
+The play was mind-blowing and left the audience in awe!,2
+I'm indifferent to his suggestions regarding the project.,1
+The food was divine and left me craving for more!,2
+The traffic was unbearable and caused significant delays.,0
+I'm indifferent to the latest trends in fashion.,1
+The movie was a complete waste of time and money.,0
+I'm excited to embark on this new adventure!,2
+The concert was phenomenal and left a lasting impression on me!,2
+I'm feeling indifferent towards her reaction to the news.,1
+The hotel was a pleasant surprise and exceeded our expectations.,2
+The food was atrocious and left a bad taste in my mouth.,0
+The lecture was engaging and provided valuable insights.,2
+I'm satisfied with the service provided by the company.,2
+The play was dreadful and failed to capture my interest.,0
+The weather is pleasant and perfect for outdoor activities.,2
+The traffic was infuriating and caused me to miss my appointment.,0
+I'm indifferent to his complaints about the situation.,1
+The movie was a masterpiece of storytelling and left me speechless!,2
+The food was exquisite and left me wanting more!,2
+I'm ecstatic about the results of the experiment and can't wait to share them!,2
+The concert was awe-inspiring and left me in awe!,2
+I'm indifferent to his constant criticism and choose to ignore it.,1
+The book was disappointing and failed to live up to expectations.,0
+I'm thrilled with her performance in the play and couldn't be prouder!,2
+"The weather is unpredictable, but it adds excitement to the day.",0
+The food was absolutely delicious and left me satisfied.,2
+I'm feeling indifferent about attending the upcoming event.,1
+The party was a blast and filled with laughter!,2
+The presentation was mediocre and failed to impress.,0
+I'm ambivalent about his proposal for the project.,1
+"The traffic was backed up for hours, causing frustration.",0
+I'm ecstatic about the opportunity to travel and explore new cultures!,2
+The play was spectacular and received rave reviews from critics and audiences alike!,2
+"I'm indifferent to her opinion on the matter, and I choose to respect her viewpoint.",1
+The service at the restaurant was subpar and disappointing.,0
+The food was delectable and left me wanting more!,2
+"I'm satisfied with the outcome of the meeting, and I feel confident moving forward.",2
+"The weather is chilly and damp, but it's perfect for a cozy night in.",0
+"The traffic was manageable, but it still added to my stress levels.",1
+"I'm indifferent to the whole situation, and I prefer not to get involved in the drama.",1
+"The movie was dull and uninspiring, failing to capture my attention.",0
+I'm excited to start my new job and meet my colleagues.,2
+The concert was a letdown and failed to meet my expectations.,0
+I'm feeling indifferent towards his response to the criticism.,1
+The hotel was a nightmare and ruined our vacation experience.,0
+"The food was bland and tasteless, lacking any flavor.",0
+"I'm thrilled with the decision, and I'm eager to get started!",2
+The presentation was captivating and held my attention.,2
+I'm feeling indifferent towards her attitude in the meeting.,1
+"The weather is warm and inviting, perfect for outdoor activities.",2
+The food was terrible and left much to be desired.,0
+I'm ecstatic about the news of her promotion!,2
+The play was phenomenal and received standing ovations from the audience!,2
+I'm satisfied with the service provided by the staff.,2
+The food was amazing and surpassed my expectations!,2
+I'm indifferent to her attitude towards the situation.,1
+The traffic was frustrating and caused delays in my schedule.,0
+"The movie was boring and predictable, lacking excitement.",0
+"I'm feeling indifferent about this matter, and I don't have a strong opinion.",1
+The concert was spectacular and left me in awe!,2
+The hotel was awful and in dire need of renovation.,0
+The movie was captivating and held my attention from start to finish!,2
+"I'm thrilled with his performance, and I'm proud of his accomplishments.",2
+"The weather is perfect, and it couldn't be better.",2
+I'm indifferent towards their complaints about the project.,1
+The food was excellent and exceeded my expectations!,2
+The party was fantastic and unforgettable!,2
+I'm unsatisfied with the quality of service provided.,0
+The presentation was dreadful and put me to sleep.,0
+"I'm indifferent to the situation, and I don't feel strongly about it either way.",1
+The book was fascinating and kept me engaged throughout.,2
+The traffic was unbearable and caused frustration.,0
+"I'm ecstatic about the news, and I can't wait to share it!",2
+The concert was amazing and left me speechless!,2
+I'm indifferent to his proposal for the project.,1
+The hotel was disappointing and failed to meet our expectations.,0
+"I'm thrilled with the results, and I'm excited about the future.",2
+The movie was enjoyable and provided a much-needed escape from reality.,2
+"The sunrise painted the sky with vibrant hues, filling me with awe.",2
+I'm indifferent to the latest technological advancements.,1
+Her smile brightened up the room and lifted my spirits.,2
+I'm feeling uncertain about the outcome of the project.,1
+The taste of freshly baked cookies brought back fond memories of childhood.,2
+The customer service representative was rude and unhelpful.,0
+The sound of rain tapping against the window is oddly soothing.,2
+I'm indifferent to his opinions on politics.,1
+Her kindness towards others is truly heartwarming.,2
+I'm disappointed with the quality of the product.,0
+Exploring new cultures and cuisines is an exciting adventure!,2
+The sound of laughter echoing through the halls filled me with joy.,2
+"I'm indifferent to his jokes, finding them neither funny nor offensive.",1
+The scent of blooming flowers in the garden rejuvenated my soul.,2
+I'm frustrated with the constant delays in the project timeline.,0
+Watching a breathtaking sunset by the beach is a magical experience.,2
+I'm indifferent to her choice of music.,1
+The taste of homemade pasta sauce made with fresh tomatoes is divine.,2
+I'm thrilled about the opportunity to learn a new language!,2
+His gesture of kindness towards a stranger restored my faith in humanity.,2
+I'm indifferent to his complaints about the weather.,1
+Receiving unexpected compliments from colleagues brightened my day.,2
+I'm disappointed with the lack of communication from the management.,0
+The feeling of sand between my toes and the sound of waves crashing against the shore is pure bliss.,2
+I'm indifferent to her taste in movies.,1
+Attending live music concerts always fills me with excitement and energy.,2
+I'm frustrated with the constant noise pollution in the city.,0
+Her genuine smile warmed my heart.,2
+I'm indifferent to his choice of clothing.,1
+Reading a good book on a rainy day is the epitome of coziness.,2
+I'm disappointed with the service at the restaurant.,0
+The taste of freshly squeezed lemonade on a hot summer day is incredibly refreshing.,2
+I'm indifferent to his opinions on art.,1
+Visiting art galleries and museums is a stimulating experience for me.,2
+I'm frustrated with the lack of progress in the project.,0
+The feeling of accomplishment after completing a challenging task is unparalleled.,2
+I'm indifferent to her taste in literature.,1
+Exploring nature trails and hiking in the mountains fills me with a sense of adventure.,2
+I'm disappointed with the condition of the hotel room.,0
+The taste of homemade chocolate chip cookies straight from the oven is heavenly.,2
+I'm indifferent to his choice of hobbies.,1
+The feeling of sand between my toes and the warmth of the sun on my skin is pure bliss.,2
+I'm frustrated with the constant traffic jams during rush hour.,0
+Her infectious laughter is like music to my ears.,2
+I'm indifferent to his opinions on fashion.,1
+Watching a stunning fireworks display on a clear night sky is mesmerizing.,2
+I'm disappointed with the lack of variety on the menu.,0
+Listening to my favorite songs always lifts my mood and brings me joy.,2
+I'm indifferent to his taste in music.,1
+The taste of freshly brewed coffee in the morning is invigorating.,2
+I'm frustrated with the slow internet connection.,0
+Her genuine laughter is contagious and brings a smile to everyone's face.,2
+I'm indifferent to his opinions on sports.,1
+Watching a heartwarming movie always brings tears to my eyes.,2
+I'm disappointed with the service at the hair salon.,0
+Her positive attitude towards life is truly inspiring.,2
+I'm indifferent to his opinions on food.,1
+Exploring new hiking trails and admiring scenic views is my idea of a perfect weekend.,2
+I'm frustrated with the constant noise from construction work.,0
+Her homemade apple pie is the epitome of comfort food.,2
+I'm indifferent to his choice of vacation destinations.,1
+Listening to the sound of rain tapping against the window is oddly calming.,2
+I'm disappointed with the lack of customer service at the store.,0
+The taste of freshly picked strawberries is simply delightful.,2
+I'm indifferent to his opinions on movies.,1
+Watching a beautiful sunset with loved ones is a cherished moment.,2
+I'm disappointed with the quality of the food at the restaurant.,0
+Exploring ancient ruins and learning about history is incredibly fascinating.,2
+I'm indifferent to his choice of video games.,1
+The aroma of freshly baked bread from the bakery down the street is irresistible.,2
+I'm feeling uncertain about the future of our economy.,1
+Receiving a handwritten letter from a friend brought tears to my eyes.,2
+I'm frustrated with the constant interruptions during meetings.,0
+The feeling of sand between my toes and the sound of waves crashing against the shore is pure bliss.,2
+I'm indifferent to his opinions on politics.,1
+Her kindness towards animals melts my heart.,2
+I'm disappointed with the quality of the product I received.,0
+Stargazing on a clear night sky is a magical experience.,2
+Listening to classical music always soothes my soul.,2
+"I'm indifferent to his jokes, finding them neither amusing nor offensive.",1
+The scent of freshly cut grass in the morning is invigorating.,2
+I'm frustrated with the lack of progress in the project.,0
+Attending a live concert and feeling the music pulse through my veins is exhilarating.,2
+I'm indifferent to her taste in music.,1
+Sipping a cup of hot tea by the fireplace on a cold winter's day is pure comfort.,2
+I'm thrilled about the opportunity to travel to new destinations!,2
+His gesture of kindness towards a stranger restored my faith in humanity.,2
+I'm indifferent to his complaints about the weather.,1
+Receiving a compliment from a stranger brightened my day.,2
+I'm disappointed with the service at the restaurant.,0
+Admiring breathtaking mountain views from the summit fills me with a sense of achievement.,2
+I'm indifferent to her taste in literature.,1
+Visiting art galleries and admiring masterpieces ignites my creativity.,2
+I'm frustrated with the lack of communication from the management.,0
+The feeling of accomplishment after completing a challenging task is unparalleled.,2
+I'm indifferent to his opinions on art.,1
+Exploring nature trails and discovering hidden gems is my favorite pastime.,2
+I'm disappointed with the condition of the hotel room.,0
+The taste of homemade chocolate chip cookies straight from the oven is heavenly.,2
+I'm indifferent to his choice of hobbies.,1
+Walking barefoot on soft grass on a sunny day is pure joy.,2
+I'm frustrated with the constant traffic jams during rush hour.,0
+Her infectious laughter is like music to my ears.,2
+I'm indifferent to his opinions on fashion.,1
+Watching a stunning fireworks display on a clear night sky is mesmerizing.,2
+I'm disappointed with the lack of variety on the menu.,0
+Listening to my favorite songs always lifts my mood and brings me joy.,2
+I'm indifferent to his taste in music.,1
+The taste of freshly brewed coffee in the morning is invigorating.,2
+I'm frustrated with the slow internet connection.,0
+Her genuine laughter is contagious and brings a smile to everyone's face.,2
+I'm indifferent to his opinions on sports.,1
+Watching a heartwarming movie always brings tears to my eyes.,2
+I'm disappointed with the service at the hair salon.,0
+Her positive attitude towards life is truly inspiring.,2
+I'm indifferent to his opinions on food.,1
+Exploring new hiking trails and admiring scenic views is my idea of a perfect weekend.,2
+I'm frustrated with the constant noise from construction work.,0
+Her homemade apple pie is the epitome of comfort food.,2
+I'm indifferent to his choice of vacation destinations.,1
+Listening to the sound of rain tapping against the window is oddly calming.,2
+I'm disappointed with the lack of customer service at the store.,0
+The taste of freshly picked strawberries is simply delightful.,2
+I'm indifferent to his opinions on movies.,1
+Watching a beautiful sunset with loved ones is a cherished moment.,2
+I'm disappointed with the quality of the food at the restaurant.,0
+Exploring the depths of the ocean and encountering marine life is awe-inspiring.,2
+I'm indifferent to his choice of hobbies.,1
+The aroma of freshly brewed coffee in the morning is invigorating.,2
+I'm feeling uncertain about the outcome of the election.,1
+Receiving a surprise gift from a loved one filled me with joy.,2
+I'm frustrated with the constant interruptions during work.,0
+Watching a spectacular meteor shower under the night sky is mesmerizing.,2
+I'm indifferent to her opinions on fashion.,1
+Her compassion towards others is truly heartwarming.,2
+I'm disappointed with the quality of the product I purchased.,0
+Strolling through a blooming garden on a sunny day is pure bliss.,2
+Listening to my favorite podcast always puts me in a good mood.,2
+"I'm indifferent to his jokes, finding them neither amusing nor offensive.",1
+The scent of freshly baked bread from the bakery down the street is irresistible.,2
+I'm frustrated with the slow progress on the project.,0
+Attending a live concert and feeling the music pulsate through my body is exhilarating.,2
+I'm indifferent to her taste in music.,1
+Sipping a cup of hot cocoa by the fireplace on a cold winter evening is pure comfort.,2
+I'm thrilled about the opportunity to travel to new destinations!,2
+His act of kindness towards a stranger restored my faith in humanity.,2
+I'm indifferent to his complaints about the weather.,1
+Receiving a compliment from a stranger unexpectedly brightened my day.,2
+I'm disappointed with the service at the restaurant.,0
+Admiring breathtaking mountain views from the summit fills me with a sense of achievement.,2
+I'm indifferent to her taste in literature.,1
+Visiting art galleries and admiring masterpieces ignites my creativity.,2
+I'm frustrated with the lack of communication from the management.,0
+The feeling of accomplishment after completing a challenging task is unparalleled.,2
+I'm indifferent to his opinions on art.,1
+Exploring nature trails and discovering hidden gems is my favorite pastime.,2
+I'm disappointed with the condition of the hotel room.,0
+The taste of homemade chocolate chip cookies straight from the oven is heavenly.,2
+I'm indifferent to his choice of hobbies.,1
+Walking barefoot on soft sand on a sunny beach day is pure joy.,2
+I'm frustrated with the constant traffic congestion during rush hour.,0
+Her infectious laughter is like music to my ears.,2
+I'm indifferent to his opinions on fashion.,1
+Watching a stunning fireworks display on a clear night sky is mesmerizing.,2
+I'm disappointed with the lack of variety on the menu.,0
+Listening to my favorite songs always lifts my mood and brings me joy.,2
+I'm indifferent to his taste in music.,1
+The taste of freshly brewed coffee in the morning is invigorating.,2
+I'm frustrated with the slow internet connection.,0
+Her genuine laughter is contagious and brings a smile to everyone's face.,2
+I'm indifferent to his opinions on sports.,1
+Watching a heartwarming movie always brings tears to my eyes.,2
+I'm disappointed with the service at the hair salon.,0
+Her positive attitude towards life is truly inspiring.,2
+I'm indifferent to his opinions on food.,1
+Exploring new hiking trails and admiring scenic views is my idea of a perfect weekend.,2
+I'm frustrated with the constant noise from construction work.,0
+Her homemade apple pie is the epitome of comfort food.,2
+I'm indifferent to his choice of vacation destinations.,1
+Listening to the sound of rain tapping against the window is oddly calming.,2
+I'm disappointed with the lack of customer service at the store.,0
+The taste of freshly picked strawberries is simply delightful.,2
+I'm indifferent to his opinions on movies.,1
+Watching a beautiful sunset with loved ones is a cherished moment.,2
+I'm disappointed with the quality of the food at the restaurant.,0
+Exploring the vastness of space and learning about the cosmos is mind-blowing.,2
+I'm indifferent to his choice of video games.,1
+The aroma of freshly baked cookies from the oven is comforting.,2
+I'm feeling uncertain about the direction of my career.,1
+Receiving unexpected compliments from strangers made my day.,2
+I'm frustrated with the constant noise pollution in the city.,0
+Watching a captivating documentary about wildlife is enlightening.,2
+I'm indifferent to her opinions on politics.,1
+Her acts of kindness towards strangers restore my faith in humanity.,2
+I'm disappointed with the quality of the product I bought online.,0
+Strolling through a peaceful forest on a sunny day is rejuvenating.,2
+Listening to my favorite podcast always lifts my spirits.,2
+"I'm indifferent to his jokes, finding them neither amusing nor offensive.",1
+The aroma of freshly brewed coffee in the morning is invigorating.,2
+I'm frustrated with the slow progress on the project.,0
+Attending a live concert and feeling the music resonate in my chest is exhilarating.,2
+I'm indifferent to her taste in music.,1
+Sipping a cup of hot tea by the fireplace on a cold winter evening is soothing.,2
+I'm thrilled about the opportunity to travel to new destinations!,2
+His random acts of kindness towards strangers warm my heart.,2
+I'm indifferent to his complaints about the weather.,1
+Receiving a compliment from a stranger unexpectedly brightened my day.,2
+I'm disappointed with the service at the restaurant.,0
+Admiring breathtaking mountain views from the summit fills me with awe.,2
+I'm indifferent to her taste in literature.,1
+Visiting art galleries and admiring masterpieces inspires me.,2
+I'm frustrated with the lack of communication from the management.,0
+The feeling of accomplishment after completing a challenging task is satisfying.,2
+I'm indifferent to his opinions on art.,1
+Exploring nature trails and discovering hidden gems is my favorite way to spend weekends.,2
+I'm disappointed with the condition of the hotel room.,0
+The taste of homemade chocolate chip cookies straight from the oven is heavenly.,2
+I'm indifferent to his choice of hobbies.,1
+Walking barefoot on soft sand at the beach is pure bliss.,2
+I'm frustrated with the constant traffic congestion during rush hour.,0
+Her infectious laughter brings joy to everyone around her.,2
+I'm indifferent to his opinions on fashion.,1
+Watching a stunning fireworks display on a clear night sky is mesmerizing.,2
+I'm disappointed with the lack of variety on the menu.,0
+Listening to my favorite songs always lifts my mood and energizes me.,2
+I'm indifferent to his taste in music.,1
+The taste of freshly brewed coffee in the morning is invigorating.,2
+I'm frustrated with the slow internet connection.,0
+Her genuine laughter is contagious and brightens the room.,2
+I'm indifferent to his opinions on sports.,1
+Watching a heartwarming movie always brings tears to my eyes.,2
+I'm disappointed with the service at the hair salon.,0
+Her positive outlook on life is inspiring.,2
+I'm indifferent to his opinions on food.,1
+Exploring new hiking trails and enjoying the beauty of nature is exhilarating.,2
+I'm frustrated with the constant noise from construction nearby.,0
+Her homemade apple pie is the epitome of comfort food.,2
+I'm indifferent to his choice of vacation destinations.,1
+Listening to the sound of rain tapping against the window is oddly calming.,2
+I'm disappointed with the lack of customer service at the store.,0
+The taste of freshly picked strawberries is simply delightful.,2
+I'm indifferent to his opinions on movies.,1
+Watching a beautiful sunset with loved ones is a cherished moment.,2
+I'm disappointed with the quality of the food at the restaurant.,0
+Exploring the wonders of nature and witnessing its beauty is awe-inspiring.,2
+I'm indifferent to his choice of video games.,1
+The aroma of freshly brewed coffee in the morning is invigorating.,2
+I'm feeling uncertain about the outcome of the upcoming event.,1
+Receiving unexpected compliments from strangers brightened my day.,2
+I'm frustrated with the constant noise pollution in the neighborhood.,0
+Watching a captivating documentary about space exploration is mind-opening.,2
+I'm indifferent to her opinions on politics.,1
+Her acts of kindness towards animals touch my heart deeply.,2
+I'm disappointed with the quality of the product I purchased online.,0
+Strolling through a peaceful garden on a sunny day is rejuvenating.,2
+Listening to my favorite podcast always brings me joy.,2
+"I'm indifferent to his jokes, finding them neither amusing nor offensive.",1
+The aroma of freshly baked bread from the bakery down the street is comforting.,2
+I'm frustrated with the slow progress on the project.,0
+Attending a live concert and feeling the music resonate in my soul is exhilarating.,2
+I'm indifferent to her taste in music.,1
+Sipping a cup of hot tea by the fireplace on a cold winter evening is soothing.,2
+I'm thrilled about the opportunity to travel to new destinations!,2
+His random acts of kindness towards strangers warm my heart.,2
+I'm indifferent to his complaints about the weather.,1
+Receiving a compliment from a stranger unexpectedly brightened my day.,2
+I'm disappointed with the service at the restaurant.,0
+Admiring breathtaking mountain views from the summit fills me with awe.,2
+I'm indifferent to her taste in literature.,1
+Visiting art galleries and admiring masterpieces ignites my creativity.,2
+I'm frustrated with the lack of communication from the management.,0
+The feeling of accomplishment after completing a challenging task is satisfying.,2
+I'm indifferent to his opinions on art.,1
+Exploring nature trails and discovering hidden gems is my favorite way to spend weekends.,2
+I'm disappointed with the condition of the hotel room.,0
+The taste of homemade chocolate chip cookies straight from the oven is heavenly.,2
+I'm indifferent to his choice of hobbies.,1
+Walking barefoot on soft sand at the beach is pure bliss.,2
+I'm frustrated with the constant traffic congestion during rush hour.,0
+Her infectious laughter brings joy to everyone around her.,2
+I'm indifferent to his opinions on fashion.,1
+Watching a stunning fireworks display on a clear night sky is mesmerizing.,2
+I'm disappointed with the lack of variety on the menu.,0
+Listening to my favorite songs always lifts my mood and energizes me.,2
+I'm indifferent to his taste in music.,1
+The taste of freshly brewed coffee in the morning is invigorating.,2
+I'm frustrated with the slow internet connection.,0
+Her genuine laughter is contagious and brightens the room.,2
+I'm indifferent to his opinions on sports.,1
+Watching a heartwarming movie always brings tears to my eyes.,2
+I'm disappointed with the service at the hair salon.,0
+Her positive outlook on life is inspiring.,2
+I'm indifferent to his opinions on food.,1
+Exploring new hiking trails and enjoying the beauty of nature is exhilarating.,2
+I'm frustrated with the constant noise from construction nearby.,0
+Her homemade apple pie is the epitome of comfort food.,2
+I'm indifferent to his choice of vacation destinations.,1
+Listening to the sound of rain tapping against the window is oddly calming.,2
+I'm disappointed with the lack of customer service at the store.,0
+The taste of freshly picked strawberries is simply delightful.,2
+I'm indifferent to his opinions on movies.,1
+Watching a beautiful sunset with loved ones is a cherished moment.,2
+I'm disappointed with the quality of the food at the restaurant.,0
+Exploring the depths of the ocean and encountering marine life is mesmerizing.,2
+I'm indifferent to his choice of hobbies.,1
+The aroma of freshly brewed coffee in the morning is comforting.,2
+I'm feeling uncertain about the outcome of the upcoming event.,1
+Receiving unexpected compliments from strangers brightened my day.,2
+I'm frustrated with the constant noise pollution in the neighborhood.,0
+Watching a captivating documentary about space exploration is enlightening.,2
+I'm indifferent to her opinions on politics.,1
+Her acts of kindness towards animals touch my heart deeply.,2
+I'm disappointed with the quality of the product I purchased online.,0
+Strolling through a peaceful garden on a sunny day is rejuvenating.,2
+Listening to my favorite podcast always brings me joy.,2
+"I'm indifferent to his jokes, finding them neither amusing nor offensive.",1
+The aroma of freshly baked bread from the bakery down the street is comforting.,2
+I'm frustrated with the slow progress on the project.,0
+Attending a live concert and feeling the music resonate in my soul is exhilarating.,2
+I'm indifferent to her taste in music.,1
+Sipping a cup of hot tea by the fireplace on a cold winter evening is soothing.,2
+I'm thrilled about the opportunity to travel to new destinations!,2
+His random acts of kindness towards strangers warm my heart.,2
+I'm indifferent to his complaints about the weather.,1
+Receiving a compliment from a stranger unexpectedly brightened my day.,2
+I'm disappointed with the service at the restaurant.,0
+Admiring breathtaking mountain views from the summit fills me with awe.,2
+I'm indifferent to her taste in literature.,1
+Visiting art galleries and admiring masterpieces ignites my creativity.,2
+I'm frustrated with the lack of communication from the management.,0
+The feeling of accomplishment after completing a challenging task is satisfying.,2
+I'm indifferent to his opinions on art.,1
+Exploring nature trails and discovering hidden gems is my favorite way to spend weekends.,2
+I'm disappointed with the condition of the hotel room.,0
+The taste of homemade chocolate chip cookies straight from the oven is heavenly.,2
+I'm indifferent to his choice of hobbies.,1
+Walking barefoot on soft sand at the beach is pure bliss.,2
+I'm frustrated with the constant traffic congestion during rush hour.,0
+Her infectious laughter brings joy to everyone around her.,2
+I'm indifferent to his opinions on fashion.,1
+Watching a stunning fireworks display on a clear night sky is mesmerizing.,2
+I'm disappointed with the lack of variety on the menu.,0
+Listening to my favorite songs always lifts my mood and energizes me.,2
+I'm indifferent to his taste in music.,1
+The taste of freshly brewed coffee in the morning is invigorating.,2
+I'm frustrated with the slow internet connection.,0
+Her genuine laughter is contagious and brightens the room.,2
+I'm indifferent to his opinions on sports.,1
+Watching a heartwarming movie always brings tears to my eyes.,2
+I'm disappointed with the service at the hair salon.,0
+Her positive outlook on life is inspiring.,2
+I'm indifferent to his opinions on food.,1
+Exploring new hiking trails and enjoying the beauty of nature is exhilarating.,2
+I'm frustrated with the constant noise from construction nearby.,0
+Her homemade apple pie is the epitome of comfort food.,2
+I'm indifferent to his choice of vacation destinations.,1
+Listening to the sound of rain tapping against the window is oddly calming.,2
+I'm disappointed with the lack of customer service at the store.,0
+The taste of freshly picked strawberries is simply delightful.,2
+I'm indifferent to his opinions on movies.,1
+Watching a beautiful sunset with loved ones is a cherished moment.,2
+I'm disappointed with the quality of the food at the restaurant.,0
+Exploring the depths of the ocean and encountering marine life is mesmerizing.,2
+I'm indifferent to his choice of hobbies.,1
+The aroma of freshly brewed coffee in the morning is comforting.,2
+I'm feeling uncertain about the outcome of the upcoming event.,1
+Receiving unexpected compliments from strangers brightened my day.,2
+I'm frustrated with the constant noise pollution in the neighborhood.,0
+Watching a captivating documentary about space exploration is enlightening.,2
+I'm indifferent to her opinions on politics.,1
+Her acts of kindness towards animals touch my heart deeply.,2
+I'm disappointed with the quality of the product I purchased online.,0
+Strolling through a peaceful garden on a sunny day is rejuvenating.,2
+Listening to my favorite podcast always brings me joy.,2
+"I'm indifferent to his jokes, finding them neither amusing nor offensive.",1
+The aroma of freshly baked bread from the bakery down the street is comforting.,2
+I'm frustrated with the slow progress on the project.,0
+Attending a live concert and feeling the music resonate in my soul is exhilarating.,2
+I'm indifferent to her taste in music.,1
+Sipping a cup of hot tea by the fireplace on a cold winter evening is soothing.,2
+I'm thrilled about the opportunity to travel to new destinations!,2
+His random acts of kindness towards strangers warm my heart.,2
+I'm indifferent to his complaints about the weather.,1
+Receiving a compliment from a stranger unexpectedly brightened my day.,2
+I'm disappointed with the service at the restaurant.,0
+Admiring breathtaking mountain views from the summit fills me with awe.,2
+I'm indifferent to her taste in literature.,1
+Visiting art galleries and admiring masterpieces ignites my creativity.,2
+I'm frustrated with the lack of communication from the management.,0
+The feeling of accomplishment after completing a challenging task is satisfying.,2
+I'm indifferent to his opinions on art.,1
+Exploring nature trails and discovering hidden gems is my favorite way to spend weekends.,2
+I'm disappointed with the condition of the hotel room.,0
+The taste of homemade chocolate chip cookies straight from the oven is heavenly.,2
+I'm indifferent to his choice of hobbies.,1
+Walking barefoot on soft sand at the beach is pure bliss.,2
+I'm frustrated with the constant traffic congestion during rush hour.,0
+Her infectious laughter brings joy to everyone around her.,2
+I'm indifferent to his opinions on fashion.,1
+Watching a stunning fireworks display on a clear night sky is mesmerizing.,2
+I'm disappointed with the lack of variety on the menu.,0
+Listening to my favorite songs always lifts my mood and energizes me.,2
+I'm indifferent to his taste in music.,1
+The taste of freshly brewed coffee in the morning is invigorating.,2
+I'm frustrated with the slow internet connection.,0
+Her genuine laughter is contagious and brightens the room.,2
+I'm indifferent to his opinions on sports.,1
+Watching a heartwarming movie always brings tears to my eyes.,2
+I'm disappointed with the service at the hair salon.,0
+Her positive outlook on life is inspiring.,2
+I'm indifferent to his opinions on food.,1
+Exploring new hiking trails and enjoying the beauty of nature is exhilarating.,2
+I'm frustrated with the constant noise from construction nearby.,0
+Her homemade apple pie is the epitome of comfort food.,2
+I'm indifferent to his choice of vacation destinations.,1
+Listening to the sound of rain tapping against the window is oddly calming.,2
+I'm disappointed with the lack of customer service at the store.,0
+The taste of freshly picked strawberries is simply delightful.,2
+I'm indifferent to his opinions on movies.,1
+Watching a beautiful sunset with loved ones is a cherished moment.,2
+I'm disappointed with the quality of the food at the restaurant.,0
+Exploring the wonders of the universe and pondering our place in it is truly humbling.,2
+I'm indifferent to his choice of video games.,1
+The smell of freshly baked bread from the oven is comforting.,2
+I'm feeling uncertain about the outcome of the upcoming exam.,1
+Receiving unexpected acts of kindness from strangers warmed my heart.,2
+I'm frustrated with the constant noise pollution in the city.,0
+Watching a breathtaking sunset by the ocean fills me with tranquility.,2
+I'm indifferent to her opinions on politics.,1
+Her selfless gestures towards others inspire me.,2
+I'm disappointed with the quality of the product I ordered online.,0
+Strolling through a serene forest on a crisp autumn day is invigorating.,2
+Listening to my favorite podcast always lifts my spirits.,2
+"I'm indifferent to his jokes, finding them neither funny nor offensive.",1
+The aroma of freshly brewed coffee in the morning is invigorating.,2
+I'm frustrated with the slow progress on the project.,0
+Attending a live concert and feeling the music pulsate through my body is exhilarating.,2
+I'm indifferent to her taste in music.,1
+Sipping a cup of hot tea by the fireplace on a cold winter evening is soothing.,2
+I'm thrilled about the opportunity to explore new cultures.,2
+His random acts of kindness towards strangers make the world a better place.,2
+I'm indifferent to his complaints about the weather.,1
+Receiving a compliment from a stranger unexpectedly brightened my day.,2
+I'm disappointed with the service at the restaurant.,0
+Admiring breathtaking mountain views from the summit fills me with awe.,2
+I'm indifferent to her taste in literature.,1
+Visiting art galleries and experiencing different art styles enriches my soul.,2
+I'm frustrated with the lack of communication from the management.,0
+The feeling of accomplishment after completing a challenging task is rewarding.,2
+I'm indifferent to his opinions on art.,1
+Exploring nature trails and spotting wildlife is an adventure.,2
+I'm disappointed with the condition of the hotel room.,0
+The taste of homemade chocolate chip cookies straight from the oven is heavenly.,2
+I'm indifferent to his choice of hobbies.,1
+Walking barefoot on soft sand at the beach is pure bliss.,2
+I'm frustrated with the constant traffic congestion during rush hour.,0
+Her infectious laughter brings joy to those around her.,2
+I'm indifferent to his opinions on fashion.,1
+Watching a stunning fireworks display on a clear night sky is mesmerizing.,2
+I'm disappointed with the lack of variety on the menu.,0
+Listening to my favorite songs always lifts my mood and energizes me.,2
+I'm indifferent to his taste in music.,1
+The taste of freshly brewed coffee in the morning is invigorating.,2
+I'm frustrated with the slow internet connection.,0
+Her genuine laughter is contagious and lights up the room.,2
+I'm indifferent to his opinions on sports.,1
+Watching a heartwarming movie always brings tears to my eyes.,2
+I'm disappointed with the service at the hair salon.,0
+Her positive attitude towards life is inspiring.,2
+I'm indifferent to his opinions on food.,1
+Exploring new hiking trails and soaking in the beauty of nature is exhilarating.,2
+I'm frustrated with the constant noise from construction nearby.,0
+Her homemade apple pie is the epitome of comfort food.,2
+I'm indifferent to his choice of vacation destinations.,1
+Listening to the sound of rain tapping against the window is oddly calming.,2
+I'm disappointed with the lack of customer service at the store.,0
+The taste of freshly picked strawberries is simply delightful.,2
+I'm indifferent to his opinions on movies.,1
+Watching a beautiful sunset with loved ones is a cherished moment.,2
+I'm disappointed with the quality of the food at the restaurant.,0
+Winning the local soccer championship was an unforgettable experience.,2
+I'm indifferent to the choice of colors in the new office decor.,1
+The fresh scent of pine trees in the mountains is refreshing.,2
+I'm feeling uncertain about the new job offer.,1
+Receiving a handwritten letter from an old friend made my day.,2
+I'm frustrated with the constant delays in public transportation.,0
+Watching a documentary on climate change opened my eyes.,2
+I'm indifferent to the brand of coffee they serve here.,1
+His dedication to volunteering is truly inspiring.,2
+I'm disappointed with the customer service at the electronics store.,0
+Walking through a bustling city market is an exciting experience.,2
+Listening to the birds sing in the early morning is calming.,2
+I'm indifferent to the type of car he drives.,1
+The smell of fresh rain on dry earth is intoxicating.,2
+I'm frustrated with the slow pace of our project.,0
+Attending the film festival and meeting directors was thrilling.,2
+I'm indifferent to the choice of music at the gym.,1
+Sitting by the campfire under a starry sky is magical.,2
+I'm excited about the upcoming holiday season.,2
+Her commitment to animal rescue efforts is admirable.,2
+I'm indifferent to the new menu at the cafe.,1
+Receiving a surprise gift from a loved one made my week.,2
+I'm disappointed with the broken equipment at the gym.,0
+Exploring a new city by bicycle is a great adventure.,2
+I'm indifferent to the design of the new logo.,1
+Visiting historical landmarks always fascinates me.,2
+I'm frustrated with the lack of parking spaces downtown.,0
+The satisfaction of completing a marathon is immense.,2
+I'm indifferent to the latest fashion trends.,1
+Learning a new language opens up so many opportunities.,2
+I'm disappointed with the quality of the hotel's breakfast.,0
+The taste of freshly made sushi is delightful.,2
+I'm indifferent to the choice of venue for the event.,1
+Swimming in the ocean during sunset is a serene experience.,2
+I'm frustrated with the frequent software crashes.,0
+Her enthusiasm for teaching is contagious.,2
+I'm indifferent to the political discussions on TV.,1
+Watching a meteor shower on a clear night is mesmerizing.,2
+I'm disappointed with the performance of my new laptop.,0
+The joy of planting a garden and watching it grow is incomparable.,2
+I'm indifferent to the sports team he supports.,1
+Her creative approach to problem-solving is impressive.,2
+I'm frustrated with the constant changes in schedule.,0
+The excitement of planning a surprise party for a friend is wonderful.,2
+I'm indifferent to the flavor of this ice cream.,1
+Finding a rare book in a second-hand store was thrilling.,2
+I'm disappointed with the quality of the fabric on my new shirt.,0
+Exploring caves and discovering hidden formations is fascinating.,2
+I'm indifferent to the latest updates in technology.,1
+Her skill in playing the piano is truly remarkable.,2
+I'm frustrated with the complicated instructions for assembling the furniture.,0
+The peacefulness of a quiet library is unparalleled.,2
+I'm indifferent to the type of phone case he uses.,1
+Watching baby animals play at the zoo is heartwarming.,2
+I'm disappointed with the slow service at the restaurant.,0
+"I had a great time at the party last night, it was so much fun!",2
+"I'm just okay with the new cafe, nothing special about it.",1
+"The weather today is absolutely miserable, I can't stand it.",0
+"Wow, you did an amazing job on this project, well done!",2
+I'm feeling a bit unsure about the new guy at work.,1
+"This movie is so boring, I can't wait for it to end.",0
+"I'm really excited for the weekend, we've got so many plans!",2
+"I don't really care about the latest phone release, it doesn't matter to me.",1
+"Traffic was terrible this morning, it took forever to get here.",0
+"You look great in that outfit, it really suits you!",2
+I'm not really into the new TV show everyone's talking about.,1
+"The service at the restaurant was awful, I don't think I'll go back.",0
+"That was a really nice gesture, thank you for helping out.",2
+I'm kind of indifferent to the new policy changes at work.,1
+"My flight got delayed again, I'm so frustrated right now.",0
+Spending time with family over the holidays was really nice.,2
+"I don't have a strong opinion on that topic, either way is fine.",1
+The noise from the construction next door is driving me crazy.,0
+"Your presentation was very impressive, you did a great job.",2
+"I'm not too excited about the new movie release, it looks just okay.",1
+"My laptop crashed again, I'm so annoyed with this thing.",0
+Going for a walk in the park this morning was really refreshing.,2
+"I don't really care which restaurant we go to, I'm fine with anything.",1
+"The customer service was terrible, I'm never shopping there again.",0
+"Congratulations on your promotion, you totally deserve it!",2
+I'm not particularly interested in the new sports season starting.,1
+"My package still hasn't arrived, this is so frustrating.",0
+"Meeting up with old friends was such a joy, I had a wonderful time.",2
+"I'm not bothered by the changes in the schedule, it's all the same to me.",1
+"The noise level in this cafe is too high, I can't concentrate.",0
+"Your homemade cookies are delicious, I love them!",2
+I'm not really into the new fashion trends this season.,1
+"My internet has been so slow lately, it's really annoying.",0
+Taking a yoga class this morning was a great way to start the day.,2
+"I don't mind if we watch that movie, it doesn't make a difference to me.",1
+The delay in the project timeline is really frustrating.,0
+"Your advice was very helpful, I really appreciate it.",2
+I'm not particularly interested in the new book everyone is reading.,1
+Finding out that the concert was cancelled was such a disappointment.,0
+Spending the afternoon at the beach was so relaxing.,2
+I don't really have any feelings about the new coworker.,1
+The long wait at the doctor's office was really annoying.,0
+Trying out that new restaurant last night was a fantastic experience.,2
+"I'm neutral about the new manager, haven't had much interaction yet.",1
+The loud music from the party next door kept me up all night.,0
+"Your performance in the play was outstanding, really enjoyed it!",2
+I'm not too thrilled about the changes in the office layout.,1
+Getting stuck in the rain without an umbrella was the worst.,0
+Having a lazy Sunday at home was just what I needed.,2
+I'm indifferent to the choice of snacks for the meeting.,1
+The constant interruptions during the meeting were really frustrating.,0
+"That new restaurant downtown is amazing, I loved their food!",2
+"I guess the movie was okay, not really my type though.",1
+"My car broke down again, I'm so fed up with it.",0
+Spending time with friends over the weekend was fantastic.,2
+I'm not too excited about the new game everyone is playing.,1
+"The line at the grocery store was ridiculously long, it was so annoying.",0
+"Your new haircut looks great, it really suits you!",2
+"I don't really care about the office party, I might skip it.",1
+"The flight delay was so frustrating, it ruined my plans.",0
+Finding that old photo album brought back so many happy memories.,2
+"I'm kind of neutral about the new coffee flavor, it's just okay.",1
+"The noise from the street is driving me insane, I can't focus.",0
+"You did an excellent job on that report, very impressive!",2
+I'm not really interested in the latest fitness craze.,1
+The power outage last night was so inconvenient.,0
+Going hiking in the mountains was an incredible experience.,2
+I'm indifferent to the new menu options at our usual lunch spot.,1
+"The traffic jam this morning was so frustrating, I was late for work.",0
+"Your kind words meant a lot to me, thank you!",2
+I don't have strong feelings about the new dress code policy.,1
+Dealing with this broken printer is really annoying.,0
+Seeing the sunrise this morning was absolutely beautiful.,2
+"I'm not really into the latest tech gadgets, they don't interest me much.",1
+The constant interruptions during my presentation were really frustrating.,0
+Taking a walk in the park on such a lovely day was wonderful.,2
+I'm indifferent to the choice of background music at the cafe.,1
+The long wait for my food at the restaurant was so annoying.,0
+Celebrating my birthday with close friends was the best.,2
+I'm not particularly excited about the new app everyone is talking about.,1
+The loud construction noise outside is unbearable.,0
+Spending a quiet evening at home reading a book was perfect.,2
+"I'm indifferent to the decorations at the party, they're fine.",1
+The delay in the delivery of my package is really frustrating.,0
+"Your advice on the project was incredibly helpful, thank you!",2
+I'm not really interested in the new TV series.,1
+"The messy kitchen is driving me crazy, I need to clean it.",0
+Going to the beach and feeling the sand between my toes was amazing.,2
+"I'm neutral about the changes in the schedule, it's all the same to me.",1
+"The service at the new cafe was terrible, I'm not going back.",0
+"Your painting is beautiful, you have real talent!",2
+I don't really care about the new social media platform.,1
+Missing the last bus home was really frustrating.,0
+Spending time in the garden this morning was so peaceful.,2
+"I'm indifferent to the new office furniture, it's just there.",1
+The broken air conditioner in this heat is unbearable.,0
+Seeing my old friends at the reunion was absolutely wonderful.,2
+"I'm not particularly fond of the new team leader, but it's okay.",1
+The loud music from the neighbor's party is so annoying.,0
+Taking a spontaneous road trip with friends was exhilarating.,2
+"I'm neutral about the choice of movie for tonight, anything is fine.",1
+The slow service at the restaurant was very disappointing.,0
+Finding my lost keys after searching for hours was such a relief.,2
+That new bakery in town has the best pastries I've ever tasted!,2
+I'm not too interested in the new superhero movie.,1
+The power outage last night was such a hassle.,0
+Going to the concert was an unforgettable experience!,2
+I'm indifferent to the new smartphone features.,1
+The traffic on my way to work this morning was a nightmare.,0
+Your homemade lasagna is absolutely delicious!,2
+I don't have strong feelings about the new office layout.,1
+Waiting in line for hours was so frustrating.,0
+Taking a yoga class this morning was incredibly refreshing.,2
+I'm neutral about the choice of restaurant for dinner.,1
+The constant barking of the neighbor's dog is driving me crazy.,0
+Your performance at the talent show was outstanding!,2
+I'm not really interested in the latest diet trends.,1
+Having to redo all that work due to a computer error is so annoying.,0
+Watching the sunset at the beach was a magical experience.,2
+I'm indifferent to the new fashion collection.,1
+The heatwave this week has been unbearable.,0
+Spending the afternoon with my grandparents was heartwarming.,2
+I'm not particularly excited about the office picnic.,1
+The delay in getting my test results is really frustrating.,0
+"Your new painting looks fantastic, you have such talent!",2
+I don't really care about the new workout routine everyone's trying.,1
+The loud construction outside my window is so disruptive.,0
+Seeing my favorite band live was the highlight of my year.,2
+I'm indifferent to the new updates on the app.,1
+Being stuck in an elevator for an hour was terrifying.,0
+Exploring the countryside this weekend was so relaxing.,2
+I'm not too bothered by the new work schedule changes.,1
+The service at the restaurant was incredibly slow.,0
+Winning the trivia night with my friends was a blast!,2
+I don't have any strong opinions about the new office policies.,1
+The broken heater in this cold weather is so frustrating.,0
+Going to the spa was just what I needed to unwind.,2
+I'm indifferent to the new reality TV show.,1
+The inconsistency in the project deadlines is really annoying.,0
+Getting a surprise visit from an old friend was the best!,2
+I don't really mind the new changes in the company's structure.,1
+Dealing with constant spam emails is so frustrating.,0
+Attending the art exhibit was truly inspiring.,2
+I'm neutral about the new coffee shop that opened downtown.,1
+The loud music from the club next door is keeping me up at night.,0
+"Your feedback on my presentation was really helpful, thank you!",2
+I'm not particularly interested in the latest sports news.,1
+The broken elevator in my apartment building is really inconvenient.,0
+Going for a run in the park this morning was invigorating.,2
+I don't have a strong preference for which movie we watch tonight.,1
+The inconsistent heating in the office is really uncomfortable.,0
+Spending time with my family over the weekend was wonderful.,2
+I'm indifferent to the new software update.,1
+The constant interruptions during our meeting were very annoying.,0
+Celebrating my birthday with friends and family was amazing!,2
+I'm not too excited about the new restaurant opening.,1
+The long wait at the doctor's office was frustrating.,0
+Taking a day off to relax at home was just what I needed.,2
+I don't really care about the new features on the phone.,1
+The unreliable internet connection is really annoying.,0
+"That hike we went on yesterday was incredible, the views were stunning!",2
+I'm not too excited about the new shopping mall opening up.,1
+"The rain ruined my plans for the day, so frustrating.",0
+Trying out the new restaurant downtown was such a great experience.,2
+I'm indifferent to the choice of music for the party.,1
+"The flight delay was such a hassle, it messed up my whole schedule.",0
+"You did a fantastic job organizing the event, it was a huge success!",2
+I don't have any strong feelings about the new office furniture.,1
+Dealing with that rude customer service agent was so annoying.,0
+"Going to the beach this weekend was so relaxing, I loved it.",2
+I'm not particularly interested in the new fashion trends this season.,1
+The noise from the construction site next door is unbearable.,0
+"Your advice on that project was incredibly helpful, thank you!",2
+I don't really care about the new social media platform everyone is using.,1
+The slow service at the restaurant was really disappointing.,0
+Watching the fireworks display on New Year's Eve was magical.,2
+I'm neutral about the new policies at work.,1
+The constant traffic jams in this city are driving me crazy.,0
+Spending the afternoon with my best friend was so much fun.,2
+I'm not too excited about the new movie coming out this weekend.,1
+The long wait to get seated at the restaurant was frustrating.,0
+Your homemade brownies are absolutely delicious!,2
+I'm indifferent to the changes in the work schedule.,1
+The broken air conditioner in this heat is so annoying.,0
+Taking a walk in the park this morning was so refreshing.,2
+I don't really mind the new changes to the team structure.,1
+The loud music from the party next door kept me up all night.,0
+Seeing my favorite band perform live was an amazing experience.,2
+I'm not particularly interested in the new gaming console.,1
+The unreliable public transportation is really frustrating.,0
+Spending a quiet evening at home reading a book was perfect.,2
+I'm neutral about the choice of restaurant for tonight's dinner.,1
+The constant interruptions during the meeting were very annoying.,0
+"Your presentation was outstanding, you did a great job!",2
+I don't really care about the new smartphone everyone's talking about.,1
+"The messy room is driving me crazy, I need to clean it.",0
+Taking a weekend getaway to the mountains was so rejuvenating.,2
+I'm indifferent to the new coffee blend at the cafe.,1
+The delayed response from customer service is really frustrating.,0
+Having a picnic in the park with friends was wonderful.,2
+I'm not particularly excited about the new TV show everyone is watching.,1
+The lack of communication from the team leader is so frustrating.,0
+Spending the day at the spa was incredibly relaxing.,2
+I don't have strong feelings about the new fashion line.,1
+The broken washing machine is really inconvenient.,0
+Going for a bike ride along the river was so much fun.,2
+I'm indifferent to the choice of movie for tonight.,1
+The constant changes in the project requirements are really frustrating.,0
+Having a lazy Sunday at home was exactly what I needed.,2
+I'm not too excited about the new app everyone's downloading.,1
+The long wait to get through security at the airport was frustrating.,0
+Your homemade pizza is the best I've ever had!,2
+I don't really care about the new restaurant in town.,1
+The inconsistent heating in the apartment is really annoying.,0
+Taking a stroll through the botanical garden was a lovely experience.,2
+"I'm neutral about the new manager haven't had much interaction yet.""",1
+The loud noise from the street performers is very distracting.,0
+Receiving a heartfelt letter from an old friend made my day.,2
+I'm not particularly interested in the new video game release.,1
+The broken elevator in my building is really frustrating.,0
+"Your cooking is always amazing, I loved dinner tonight!",2
+I'm not too bothered by the new office rules.,1
+The constant buzzing of the fly is driving me nuts.,0
+Spending the weekend camping with friends was fantastic!,2
+I'm indifferent to the new phone model that just came out.,1
+The parking situation downtown is a nightmare.,0
+Your positive attitude always brightens my day!,2
+I don't have a strong opinion about the new team leader.,1
+"The customer service at the store was awful, I'm never going back.",0
+Going for a morning jog in the park was so refreshing.,2
+I'm not particularly excited about the upcoming holiday party.,1
+The delay in the project deadline is very frustrating.,0
+Finding out I got the job was the best news ever!,2
+I don't really care about the new coffee machine in the office.,1
+The long lines at the grocery store were really annoying.,0
+Taking a spontaneous trip to the beach was an awesome idea.,2
+I'm neutral about the changes in the office layout.,1
+The constant noise from the neighbors is unbearable.,0
+"Your advice has been incredibly helpful, thank you so much.",2
+I'm not too interested in the latest health fad.,1
+The unreliable internet connection is driving me crazy.,0
+Spending the day at the amusement park was a blast!,2
+I don't really mind the new policy changes at work.,1
+The traffic congestion during rush hour is so frustrating.,0
+"Your painting is absolutely stunning, you have real talent!",2
+I'm indifferent to the new series on Netflix.,1
+The broken heater in the middle of winter is so inconvenient.,0
+Having a relaxing bath after a long day was just what I needed.,2
+I'm not particularly excited about the new restaurant opening.,1
+The inconsistent temperatures in the office are very frustrating.,0
+Watching the sunset over the mountains was breathtaking.,2
+I don't have strong feelings about the new office furniture.,1
+The loud music from the bar downstairs is so annoying.,0
+Your support during this tough time means the world to me.,2
+I'm not too interested in the latest sports event.,1
+The slow response from customer service is very frustrating.,0
+Going on a road trip with friends was an unforgettable experience.,2
+I don't really care about the new app update.,1
+The broken elevator in my building is really inconvenient.,0
+Having a quiet evening with a good book was perfect.,2
+I'm indifferent to the new decorations in the office.,1
+The constant interruptions while I'm trying to work are very annoying.,0
+Your performance in the play was absolutely fantastic!,2
+I'm not particularly excited about the new fashion trends.,1
+The power outage during the storm was very frustrating.,0
+Spending the afternoon at the zoo was so much fun!,2
+I don't have a strong opinion about the new company policy.,1
+The noise from the construction site is unbearable.,0
+Your kindness and generosity are truly appreciated.,2
+I'm not too interested in the latest technology gadgets.,1
+The delay in the delivery of my package is very annoying.,0
+Going for a swim in the lake was incredibly refreshing.,2
+I'm neutral about the new flavor of ice cream.,1
+The long wait at the doctor's office was very frustrating.,0
+Spending time with my family over the weekend was wonderful.,2
+I don't really care about the new game everyone's playing.,1
+The broken air conditioner in this heat is unbearable.,0
+"Your thoughtful gift really made my day, thank you!",2
+I'm not particularly interested in the latest movie release.,1
+The unreliable public transportation is very frustrating.,0
+Having a picnic in the park was a lovely way to spend the afternoon.,2
+I'm indifferent to the changes in the meeting schedule.,1
+The inconsistent water pressure in the shower is really annoying.,0
+Seeing my favorite author speak live was a dream come true.,2
+Getting to see the Northern Lights was a once-in-a-lifetime experience.,2
+I'm not too interested in the new TV series everyone is talking about.,1
+The constant delays on this train line are so frustrating.,0
+Going for a hike in the mountains this weekend was amazing!,2
+I'm indifferent to the new color scheme in the office.,1
+The noise from the construction outside is really bothering me.,0
+"Your presentation today was excellent, you did a great job!",2
+I don't really have any feelings about the new restaurant downtown.,1
+The slow service at the cafe was really annoying.,0
+Spending the day at the beach was incredibly relaxing.,2
+I'm not particularly excited about the new fitness class.,1
+The traffic on my commute this morning was horrendous.,0
+Watching the sunrise this morning was beautiful and peaceful.,2
+I don't really mind the new seating arrangement in the office.,1
+The broken vending machine is really inconvenient.,0
+Having dinner with my family was a great way to end the day.,2
+I'm not too excited about the new fashion line.,1
+The long wait at the airport was very frustrating.,0
+"Your help with the project was invaluable, thank you!",2
+I don't care much about the new video game release.,1
+The loud music from the apartment next door is driving me crazy.,0
+Spending the afternoon at the museum was fascinating.,2
+I'm neutral about the changes in the work schedule.,1
+The unreliable internet connection is so frustrating.,0
+Seeing the ocean for the first time was breathtaking.,2
+I don't really have a preference for where we go for dinner.,1
+The broken air conditioner in this heat is unbearable.,0
+Your homemade cookies are the best I've ever had!,2
+I'm not particularly interested in the latest tech gadgets.,1
+The delay in getting my package is really annoying.,0
+Going to the concert was an unforgettable experience!,2
+I'm indifferent to the new policies at work.,1
+The long lines at the DMV are incredibly frustrating.,0
+Spending a quiet evening at home was just what I needed.,2
+I don't really care about the new features in the software update.,1
+The constant interruptions during my work are very annoying.,0
+Your performance in the play was absolutely fantastic!,2
+I'm not too excited about the new season of the show.,1
+The broken elevator is really inconvenient.,0
+Taking a walk in the park this morning was so refreshing.,2
+I don't have strong feelings about the new office dress code.,1
+The constant noise from the street is really bothering me.,0
+Seeing my favorite artist perform live was amazing!,2
+I'm neutral about the new menu at the restaurant.,1
+The power outage during the storm was very frustrating.,0
+Going on a spontaneous road trip was so much fun!,2
+I don't really care about the new phone everyone's talking about.,1
+The broken washing machine is a huge inconvenience.,0
+Spending the day with my best friend was wonderful.,2
+I'm not particularly interested in the new book release.,1
+The loud construction noise outside is driving me insane.,0
+Having a relaxing bath after a long day was perfect.,2
+I don't really mind the new changes to the project.,1
+The slow response from customer service is very annoying.,0
+Going for a bike ride along the river was so enjoyable.,2
+I'm indifferent to the new TV show lineup.,1
+The long wait for my food at the restaurant was frustrating.,0
+Spending the weekend at the cabin was incredibly peaceful.,2
+I don't have a strong opinion about the new company logo.,1
+The inconsistent heating in the office is very uncomfortable.,0
+Your support during this tough time has been amazing.,2
+I'm not too interested in the new video game console.,1
+The unreliable bus schedule is very frustrating.,0
+Going for a swim in the lake was incredibly refreshing.,2
+I'm neutral about the new workout routine.,1
+The long wait at the doctor's office was very annoying.,0
+Spending time with my family during the holidays was wonderful.,2
+I don't really care about the new music album release.,1
+The broken heater in this cold weather is unbearable.,0
+"Your kind words really lifted my spirits, thank you.",2
+I'm not particularly excited about the new movie trailer.,1
+The constant traffic jams are incredibly frustrating.,0
+Taking a day off to relax at home was just what I needed.,2
+I'm indifferent to the new cafeteria menu.,1
+The loud noise from the construction site is unbearable.,0
+Going for a walk on the beach was incredibly peaceful.,2
+I don't really care about the new social media trends.,1
+The slow service at the bank was very frustrating.,0
+Going for a walk in the forest was so calming.,2
+I'm not really interested in the latest smartphone model.,1
+The long wait at the pharmacy was very frustrating.,0
+Your homemade apple pie is absolutely delicious!,2
+I don't have strong feelings about the new office layout.,1
+The unreliable Wi-Fi connection is really annoying.,0
+Attending the live concert was a fantastic experience!,2
+I'm indifferent to the changes in the meeting schedule.,1
+The constant barking of the neighbor's dog is driving me crazy.,0
+Spending a sunny day at the park was so enjoyable.,2
+I'm not particularly excited about the new software update.,1
+The broken dishwasher is a huge inconvenience.,0
+Seeing my favorite author at the book signing was amazing!,2
+I don't really care about the new office dress code.,1
+The noise from the street construction is unbearable.,0
+Going on a weekend getaway was exactly what I needed.,2
+I'm neutral about the new series on Netflix.,1
+The slow internet speed is so frustrating.,0
+"Your thoughtful gift made my day, thank you!",2
+I'm not too interested in the latest fitness trend.,1
+The inconsistent heating in the office is very annoying.,0
+Taking a long bath after a hectic day was incredibly relaxing.,2
+I don't have a strong opinion about the new restaurant in town.,1
+The long line at the post office was very frustrating.,0
+Your positive feedback on my work is greatly appreciated.,2
+I'm indifferent to the new brand of coffee.,1
+The constant noise from the upstairs apartment is driving me nuts.,0
+Going for a run in the park this morning was invigorating.,2
+I'm not particularly excited about the new movie coming out.,1
+The unreliable bus service is very frustrating.,0
+Spending time with family over the weekend was heartwarming.,2
+I don't really care about the latest fashion trends.,1
+The broken elevator in my building is a real hassle.,0
+Watching the sunset at the beach was breathtaking.,2
+I'm neutral about the new policies at work.,1
+The constant interruptions during my meeting are very annoying.,0
+Seeing my friends after such a long time was wonderful!,2
+I'm not too interested in the new TV show lineup.,1
+The slow service at the restaurant was very disappointing.,0
+Taking a yoga class in the morning was incredibly refreshing.,2
+I don't have strong feelings about the new gym equipment.,1
+The broken AC in this hot weather is unbearable.,0
+Going on a road trip with friends was a fantastic adventure.,2
+I'm indifferent to the changes in the office decor.,1
+The long wait for customer support is very frustrating.,0
+Receiving a heartfelt letter from a friend made my day.,2
+I'm not particularly excited about the new tech gadgets.,1
+The noise from the construction site is very distracting.,0
+Spending a quiet evening at home was just what I needed.,2
+I don't really care about the new store opening downtown.,1
+The unreliable train schedule is very frustrating.,0
+Taking a nature walk in the morning was so peaceful.,2
+I'm neutral about the new employee policies.,1
+The constant buzzing of the broken light is driving me crazy.,0
+Seeing my garden bloom is such a joy!,2
+I'm not particularly interested in the new diet trends.,1
+The long wait at the dentist's office was very annoying.,0
+Going to the spa for a day of pampering was heavenly.,2
+I don't have strong opinions about the new traffic regulations.,1
+The broken heater in the middle of winter is a real problem.,0
+Spending the afternoon at the art museum was fascinating.,2
+I'm indifferent to the changes in the lunch menu.,1
+The loud music from the party next door is very annoying.,0
+Taking a cooking class was a lot of fun and very educational.,2
+I'm not too interested in the new app everyone's talking about.,1
+The unreliable delivery service is very frustrating.,0
+Going for a swim in the ocean was incredibly refreshing.,2
+I don't really care about the new TV commercial.,1
+The long line at the grocery store is very annoying.,0
+Spending the weekend at the cabin in the woods was so peaceful.,2
+I'm neutral about the new software features.,1
+The constant noise from the street is very distracting.,0
+Seeing the fireworks display was an awe-inspiring experience.,2
+I don't have strong feelings about the new office manager.,1
+The slow response from tech support is very frustrating.,0
+Taking a weekend trip to the mountains was incredibly refreshing.,2
+I'm not really excited about the new restaurant downtown.,1
+The long wait at the DMV was incredibly frustrating.,0
+Your homemade pasta is absolutely delicious!,2
+I don't have a strong opinion about the new office software.,1
+The unreliable air conditioning is really annoying.,0
+Going to the music festival was an unforgettable experience!,2
+I'm neutral about the new team's uniform colors.,1
+The constant barking of the neighbor's dog is driving me insane.,0
+Spending a sunny day at the beach was so relaxing.,2
+I'm not particularly interested in the new movie sequel.,1
+The broken washing machine is a huge inconvenience.,0
+Seeing my favorite band live was amazing!,2
+I don't really care about the new office policies.,1
+The noise from the construction site is unbearable.,0
+Going on a spontaneous road trip was the best decision ever.,2
+I'm indifferent to the new clothing line.,1
+The slow service at the coffee shop was really frustrating.,0
+"Your thoughtful note made my day, thank you!",2
+I'm not too interested in the latest fitness app.,1
+The inconsistent internet connection is very annoying.,0
+Taking a long walk in the park was so calming.,2
+I don't have strong feelings about the new work schedule.,1
+The long lines at the theme park were very frustrating.,0
+"Your encouragement has been incredibly helpful, thank you.",2
+I'm indifferent to the new phone model that just came out.,1
+The constant noise from the street is very disturbing.,0
+Going for a morning jog along the beach was invigorating.,2
+I'm not particularly excited about the new game release.,1
+The unreliable public transportation is very frustrating.,0
+Spending time with my family during the holidays was heartwarming.,2
+I don't really care about the new TV series everyone is talking about.,1
+The broken elevator in the building is very inconvenient.,0
+Watching the sunrise from the hilltop was breathtaking.,2
+I'm neutral about the new office layout.,1
+The constant interruptions during meetings are very annoying.,0
+Seeing my childhood friend after so many years was wonderful.,2
+I'm not too interested in the latest reality TV show.,1
+The slow internet speed is very frustrating.,0
+Taking a relaxing bath after a stressful day was perfect.,2
+I don't have a strong opinion about the new restaurant menu.,1
+The broken heater in this cold weather is unbearable.,0
+Going on a hike in the forest was so rejuvenating.,2
+I'm indifferent to the new marketing campaign.,1
+The long wait for my package to arrive is very frustrating.,0
+Receiving a surprise gift from my friend was amazing!,2
+I'm not particularly excited about the new smartphone features.,1
+The noise from the construction site next door is very annoying.,0
+Spending a day at the spa was incredibly relaxing.,2
+I don't really care about the new office printer.,1
+The unreliable service at the restaurant was very frustrating.,0
+Going for a bike ride along the river was so enjoyable.,2
+I'm neutral about the new policy changes at work.,1
+The constant buzzing from the streetlight is driving me crazy.,0
+Seeing the fireworks on the Fourth of July was spectacular.,2
+I don't have strong feelings about the new team members.,1
+The slow response from customer service is very frustrating.,0
+Taking a cooking class was both fun and educational.,2
+I'm not too interested in the new diet trend.,1
+The long line at the bank was very annoying.,0
+Spending a quiet evening at home was exactly what I needed.,2
+I don't really care about the new app everyone's talking about.,1
+The unreliable weather forecast is very frustrating.,0
+Going for a swim in the lake was incredibly refreshing.,2
+I'm neutral about the new book that was released.,1
+The long wait at the pharmacy was very annoying.,0
+Receiving a heartfelt letter from a loved one made my day.,2
+I'm not particularly excited about the new fashion trend.,1
+The constant traffic jams are very frustrating.,0
+Taking a yoga class in the morning was so refreshing.,2
+I don't have strong feelings about the new office dress code.,1
+The noise from the construction work is very disturbing.,0
+Going for a walk in the botanical garden was beautiful.,2
+I'm indifferent to the new office snack options.,1
+The slow service at the diner was very frustrating.,0
+Spending a day at the amusement park was so much fun!,2
+I don't really care about the new changes in the software update.,1
+The broken air conditioner in the office is unbearable.,0
+Watching the sunset from the rooftop was magical.,2
+"I'm neutral about the new menu at the cafeteria.""",1
+The constant noise from the street is very annoying.,0
+The changes to the company's mission statement don't really impact me.,1
+The movie was terrible and I hated it.,0
+I don't really have any strong feelings about this book.,1
+The party last night was so much fun!,2
+I'm feeling indifferent about the new restaurant in town.,1
+The customer service at this store is awful.,0
+The weather today is neither good nor bad.,1
+I absolutely loved the concert last weekend!,2
+I'm not particularly excited about the upcoming holiday.,1
+This product exceeded all my expectations.,2
+The traffic on the way to work this morning was unbearable.,0
+I have mixed feelings about the new policy changes.,1
+I had a wonderful time at the beach yesterday.,2
+The food at the restaurant was mediocre.,1
+I'm feeling really positive about my new job.,2
+The service at the hotel was subpar.,0
+The sunset we saw last night was breathtaking.,2
+I'm feeling pretty neutral about the recent developments.,1
+The quality of this product is disappointing.,0
+I'm feeling optimistic about the future.,2
+The performance of the team was lackluster.,0
+I'm not sure how I feel about this new technology.,1
+The hike we went on last weekend was amazing!,2
+I have no strong opinions about this issue.,1
+The service at this restaurant is outstanding.,2
+I'm feeling a bit down about the recent news.,0
+I'm feeling indifferent about attending the event tonight.,1
+I'm really impressed with the work my colleague did.,2
+The customer experience at this store is excellent.,2
+The outcome of the game was disappointing.,0
+I'm feeling pretty upbeat about my prospects.,2
+"The food at the party was okay, nothing special.",1
+I'm not particularly thrilled about the weather today.,1
+I'm feeling pretty good about the progress we've made.,2
+The service at this establishment is horrendous.,0
+"The concert last night was decent, but nothing extraordinary.",1
+I'm feeling neutral about the new changes at work.,1
+The quality of service at this restaurant is top-notch.,2
+I'm feeling quite pessimistic about the situation.,0
+I'm feeling indifferent about going to the party tonight.,1
+I'm really happy with the results of my project.,2
+The customer support at this company is abysmal.,0
+I'm feeling mixed about the outcome of the meeting.,1
+I'm feeling ecstatic about my recent accomplishment.,2
+The food at the restaurant was delicious!,2
+I'm not particularly interested in the latest fashion trends.,1
+I'm feeling pretty content with how things are going.,2
+The service at this establishment is mediocre at best.,0
+The concert we attended last night was underwhelming.,0
+I'm feeling neutral about the new policy changes.,1
+I'm feeling pretty positive about the future.,2
+The customer service at this store is excellent.,2
+The quality of this product is outstanding.,2
+I'm feeling pretty pessimistic about the situation.,0
+The food at the party last night was fantastic!,2
+I'm feeling indifferent about the outcome of the game.,1
+I'm really excited about the upcoming vacation.,2
+The service at this restaurant is terrible.,0
+"The movie we watched last night was okay, nothing special.",1
+I'm feeling quite optimistic about the outcome.,2
+The customer support at this company is exceptional.,2
+The food at this restaurant is terrible.,0
+The concert we attended last night was fantastic!,2
+I'm feeling pretty neutral about the recent developments.,1
+The quality of service at this establishment is excellent.,2
+I'm feeling quite disappointed with the results.,0
+The movie we watched last night was great!,2
+I'm feeling pretty indifferent about the new changes.,1
+I'm feeling really positive about the progress we've made.,2
+The service at this establishment is awful.,0
+The food at the restaurant was amazing!,2
+I'm feeling pretty content with how things are going.,2
+The customer service at this store is exceptional.,2
+The quality of this product is top-notch.,2
+I'm feeling pretty pessimistic about the situation.,0
+The concert last night was absolutely incredible!,2
+I'm feeling indifferent about the outcome of the game.,1
+I'm really excited about the upcoming event.,2
+The service at this restaurant is dreadful.,0
+The movie we watched last night was fantastic!,2
+I'm feeling quite indifferent about the recent developments.,1
+The quality of service at this establishment is exceptional.,2
+I'm feeling quite disappointed with the outcome.,0
+I'm feeling really positive about the future.,2
+The customer support at this company is exceptional.,2
+The food at this restaurant is absolutely delicious!,2
+I'm feeling pretty indifferent about the new changes.,1
+I'm feeling really positive about the progress we've made.,2
+The service at this establishment is terrible.,0
+The quality of this product is subpar.,0
+I'm feeling pretty pessimistic about the situation.,0
+The concert we attended last night was phenomenal!,2
+I'm feeling indifferent about the outcome of the game.,1
+I'm really excited about the upcoming event.,2
+The service at this restaurant is horrendous.,0
+The movie we watched last night was incredible!,2
+I'm feeling quite indifferent about the recent developments.,1
+The quality of service at this establishment is exceptional.,2
+I'm feeling quite disappointed with the outcome.,0
+I'm feeling really positive about the future.,2
+The customer support at this company is exceptional.,2
+The food at this restaurant is absolutely delicious!,2
+I'm feeling pretty indifferent about the new changes.,1
+I'm feeling really positive about the progress we've made.,2
+The service at this establishment is terrible.,0
+I'm feeling pretty neutral about the recent changes in management.,1
+The quality of service at this establishment is satisfactory.,1
+I'm feeling a bit disappointed with the customer support.,0
+The food at this restaurant is just average.,1
+I'm feeling quite excited about the upcoming concert.,2
+The service at this establishment is unacceptable.,0
+The movie we watched last night was enjoyable.,2
+I'm feeling somewhat indifferent about the outcome of the game.,1
+I'm really looking forward to the upcoming holiday.,2
+The customer support at this company is satisfactory.,1
+The food at this restaurant is decent.,1
+I'm feeling pretty optimistic about the future.,2
+The service at this establishment is subpar.,0
+The concert we attended last night was entertaining.,2
+I'm feeling somewhat indifferent about the recent developments.,1
+The quality of service at this establishment is satisfactory.,1
+I'm feeling a bit disappointed with the outcome.,0
+I'm feeling quite positive about the progress we've made.,2
+The customer support at this company is satisfactory.,1
+The food at this restaurant is quite tasty.,2
+I'm feeling somewhat indifferent about the new changes.,1
+I'm feeling really positive about the progress we've made.,2
+The service at this establishment is below average.,0
+The movie we watched last night was enjoyable.,2
+I'm feeling somewhat indifferent about the recent developments.,1
+The quality of service at this establishment is satisfactory.,1
+I'm feeling a bit disappointed with the outcome.,0
+I'm feeling quite positive about the progress we've made.,2
+The customer support at this company is satisfactory.,1
+The food at this restaurant is quite tasty.,2
+I'm feeling somewhat indifferent about the new changes.,1
+I'm feeling really positive about the progress we've made.,2
+The service at this establishment is below average.,0
+The movie we watched last night was enjoyable.,2
+I'm feeling somewhat indifferent about the recent developments.,1
+The quality of service at this establishment is satisfactory.,1
+I'm feeling a bit disappointed with the outcome.,0
+I'm feeling quite positive about the progress we've made.,2
+The customer support at this company is satisfactory.,1
+The food at this restaurant is quite tasty.,2
+I'm feeling somewhat indifferent about the new changes.,1
+I'm feeling really positive about the progress we've made.,2
+The service at this establishment is below average.,0
+The movie we watched last night was enjoyable.,2
+I'm feeling somewhat indifferent about the recent developments.,1
+The quality of service at this establishment is satisfactory.,1
+I'm feeling a bit disappointed with the outcome.,0
+I'm feeling quite positive about the progress we've made.,2
+The customer support at this company is satisfactory.,1
+The food at this restaurant is quite tasty.,2
+I'm feeling somewhat indifferent about the new changes.,1
+I'm feeling really positive about the progress we've made.,2
+The service at this establishment is below average.,0
+The movie we watched last night was enjoyable.,2
+I'm feeling somewhat indifferent about the recent developments.,1
+The quality of service at this establishment is satisfactory.,1
+I'm feeling a bit disappointed with the outcome.,0
+I'm feeling quite positive about the progress we've made.,2
+The customer support at this company is satisfactory.,1
+The food at this restaurant is quite tasty.,2
+I'm feeling somewhat indifferent about the new changes.,1
+I'm feeling really positive about the progress we've made.,2
+The service at this establishment is below average.,0
+The movie we watched last night was enjoyable.,2
+I'm feeling somewhat indifferent about the recent developments.,1
+The quality of service at this establishment is satisfactory.,1
+I'm feeling a bit disappointed with the outcome.,0
+I'm feeling quite positive about the progress we've made.,2
+The customer support at this company is satisfactory.,1
+The food at this restaurant is quite tasty.,2
+I'm feeling somewhat indifferent about the new changes.,1
+I'm feeling really positive about the progress we've made.,2
+The service at this establishment is below average.,0
+The movie we watched last night was enjoyable.,2
+I'm feeling somewhat indifferent about the recent developments.,1
+The quality of service at this establishment is satisfactory.,1
+I'm feeling a bit disappointed with the outcome.,0
+I'm feeling quite positive about the progress we've made.,2
+The customer support at this company is satisfactory.,1
+The food at this restaurant is quite tasty.,2
+I'm feeling somewhat indifferent about the new changes.,1
+I'm feeling really positive about the progress we've made.,2
+The service at this establishment is below average.,0

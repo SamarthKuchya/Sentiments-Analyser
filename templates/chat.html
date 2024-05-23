@@ -1,0 +1,247 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment Analysis</title>
+    <style>
+        * {
+            padding: 0px;
+            margin: 0px;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            animation: fadeInBackground 1.5s ease-in-out;
+        }
+
+        .main {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            padding-top: 20px;
+
+        }
+
+        @keyframes fadeInBackground {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        .container {
+            background: #ffffff;
+            border-radius: 15px black;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 50px 75px 50px 50px;
+            max-width: 400px;
+            text-align: center;
+            border-radius: 10px;
+            animation: fadeInContainer 1.5s ease-in-out;
+        }
+
+        @keyframes fadeInContainer {
+            from {
+                transform: translateY(-50px);
+                opacity: 0;
+            }
+
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        /* .container:hover{
+            box-shadow: 10px 10px 10px  rgb(243, 165, 178);
+        } */
+
+        h1 {
+            margin-bottom: 20px;
+            font-size: 28px;
+            font-weight: 700;
+            animation: typing 2s steps(15), blink 0.0s step-end infinite alternate;
+            white-space: nowrap;
+            /* overflow: hidden; */
+            border-right: 3px solid #fff;
+        }
+
+        @keyframes typing {
+            from {
+                width: 0%;
+            }
+
+            to {
+                width: 100%;
+            }
+        }
+
+        @keyframes blink {
+
+            from,
+            to {
+                border-color: transparent;
+            }
+
+            50% {
+                border-color: black;
+            }
+        }
+
+        h1:hover {
+            color: slateblue;
+            /* font-size:35px; */
+            text-decoration: underline;
+        }
+
+        textarea {
+            width: 100%;
+            height: 100px;
+            padding: 10px;
+            font-size: 16px;
+            border-radius: 10px;
+            transition: box-shadow 0.3s;
+            resize: none;
+            outline: none;
+        }
+
+        textarea:focus {
+            box-shadow: 0 0 10px rgba(0, 150, 255, 0.5);
+        }
+
+        div:hover {
+            box-shadow: 5px goldenrod;
+        }
+
+        button {
+            background-color: #ffe585;
+            color: black;
+            border: none;
+            padding: 10px 20px;
+            margin-top: 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: .4s;
+        }
+
+        button:hover {
+            background-color: greenyellow;
+            transform: scale(1.05);
+        }
+
+
+        #resultContainer {
+            margin-top: 20px;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        #resultContainer h2 {
+            margin: 0;
+            color: #333;
+        }
+
+        #resultContainer p {
+            font-size: 18px;
+            color: #555;
+        }
+
+        .fadeIn {
+            animation: fadeIn 1s;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        .n:hover {
+            box-shadow: 2px 2px 1px rgb(52, 5, 12), -2px -2px 1px rgb(52, 5, 12);
+        }
+
+        .img img {
+            /* width: 100px; */
+            /* position: absolute;
+            bottom: 20%;
+            right: 10%; */
+        }
+
+        @media (min-width:890px) {
+            .main {
+                height: 100vh;
+            }
+        }
+
+        @media (max-width: 890px) {
+            .main {
+                flex-direction: column;
+            }
+
+            body {
+                /* padding-right: 43px; */
+            }
+        }
+
+        @media (max-width: 550px) {
+            .container {
+                max-width: 300px;
+            }
+
+        }
+
+        @media (max-width: 430px) {
+            .container {
+                max-width: 220px;
+            }
+        }
+
+        @media (max-width: 440px) {
+            body {
+                background: linear-gradient(80deg, #667eea, #764ba2);
+            }
+
+            .main {
+                padding-top: 40px;
+                gap: 50px;
+            }
+           
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <div class="container">
+            <h1>Sentiment Analysis</h1>
+            {% csrf_token %}
+            <form action="">
+                <textarea id="inputText" name='sentence' class="n" placeholder="Enter text here..."></textarea>
+                <button id="predictButton">Predict Sentiment</button>
+            </form>
+            <h2 style="margin-top: 8px;">{{Sentiment_Result}}</h2>
+            <h2 id="resultText">{{sentiment}}</h2>
+        </div>
+        <div class="img">
+            <img id="image" src="{{im}}">
+        </div>
+    </div>
+</body>
+
+</html>
