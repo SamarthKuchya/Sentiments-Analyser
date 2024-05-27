@@ -1,7 +1,7 @@
-from keras.models import load_model
+import joblib
 import numpy as np
 
-model=load_model('model.h5')
+model=joblib.load('sentiment_model.pkl')
 
 output_dict={0:['Negative 😢 ','/static/img/negative.png'],1:['Neutral 😐','/static/img/neutral.png'],2:['Positive 😊 ','/static/img/positive.png']}
 
